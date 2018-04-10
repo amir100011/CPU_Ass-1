@@ -1,0 +1,717 @@
+vsim -gui work.aritmetic_unit_tb
+# vsim -gui work.aritmetic_unit_tb 
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.std_logic_arith(body)
+# Loading ieee.std_logic_unsigned(body)
+# Loading ieee.numeric_std(body)
+# Loading work.aritmetic_unit_tb(rtl)
+# Loading work.aritmetic_unit(arch_aritmetic_unit)
+# Loading work.mac_struct(arch_mac_struct)
+# Loading work.n_bit_multiplication_behavioral(behavioral_arch)
+# Loading work.nx2_bit_full_adder(arch_2n_bit_full_adder)
+# Loading work.xor_gate(xor_gate)
+# Loading work.full_adder_struct(arch_full_adder)
+# Loading work.and_gate(and_gate)
+# Loading work.or_gate(or_gate)
+# Loading work.selector_fa(behavioral_arch)
+# Loading work.selector_mul(behavioral_arch)
+# ** Warning: (vsim-8683) Uninitialized out port /aritmetic_unit_tb/tester/Aritmetic_Unit_output_MUL(3 downto 0) has no driver.
+# 
+# This port will contribute value (UUUU) to the signal network.
+# 
+# ** Warning: (vsim-8683) Uninitialized out port /aritmetic_unit_tb/tester/Aritmetic_Unit_output_MAC(3 downto 0) has no driver.
+# 
+# This port will contribute value (UUUU) to the signal network.
+# 
+add wave -position end  sim:/aritmetic_unit_tb/inA_tmp
+add wave -position end  sim:/aritmetic_unit_tb/inB_tmp
+add wave -position end  sim:/aritmetic_unit_tb/clk_q
+add wave -position end  sim:/aritmetic_unit_tb/Cout
+add wave -position end  sim:/aritmetic_unit_tb/opcode_q
+add wave -position end  sim:/aritmetic_unit_tb/sum
+add wave -position end  sim:/aritmetic_unit_tb/mul
+add wave -position end  sim:/aritmetic_unit_tb/Acc
+run
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 0  Instance: /aritmetic_unit_tb/tester/MUL_mapping
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 0  Instance: /aritmetic_unit_tb/tester/MUL_mapping
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 0  Instance: /aritmetic_unit_tb/tester/MAC_mapping/MUL
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 1  Instance: /aritmetic_unit_tb/tester/MAC_mapping/MUL
+# ** Error: Cout error 0
+#    Time: 1 ns  Iteration: 0  Instance: /aritmetic_unit_tb
+# ** Error: Cout error 0
+#    Time: 2 ns  Iteration: 0  Instance: /aritmetic_unit_tb
+# ** Error: Cout error 0
+#    Time: 3 ns  Iteration: 0  Instance: /aritmetic_unit_tb
+quit -sim
+# Compile of Aritmetic_Unit.vhd was successful with warnings.
+vsim -gui work.aritmetic_unit_tb
+# vsim -gui work.aritmetic_unit_tb 
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.std_logic_arith(body)
+# Loading ieee.std_logic_unsigned(body)
+# Loading ieee.numeric_std(body)
+# Loading work.aritmetic_unit_tb(rtl)
+# Loading work.aritmetic_unit(arch_aritmetic_unit)
+# Loading work.mac_struct(arch_mac_struct)
+# Loading work.n_bit_multiplication_behavioral(behavioral_arch)
+# Loading work.nx2_bit_full_adder(arch_2n_bit_full_adder)
+# Loading work.xor_gate(xor_gate)
+# Loading work.full_adder_struct(arch_full_adder)
+# Loading work.and_gate(and_gate)
+# Loading work.or_gate(or_gate)
+# Loading work.selector_fa(behavioral_arch)
+# Loading work.selector_mul(behavioral_arch)
+add wave -position end  sim:/aritmetic_unit_tb/inA_tmp
+add wave -position end  sim:/aritmetic_unit_tb/inB_tmp
+add wave -position end  sim:/aritmetic_unit_tb/clk_q
+add wave -position end  sim:/aritmetic_unit_tb/Cout
+add wave -position end  sim:/aritmetic_unit_tb/opcode_q
+add wave -position end  sim:/aritmetic_unit_tb/sum
+add wave -position end  sim:/aritmetic_unit_tb/mul
+add wave -position end  sim:/aritmetic_unit_tb/Acc
+run
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 0  Instance: /aritmetic_unit_tb/tester/MUL_mapping
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 0  Instance: /aritmetic_unit_tb/tester/MUL_mapping
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 0  Instance: /aritmetic_unit_tb/tester/MAC_mapping/MUL
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 1  Instance: /aritmetic_unit_tb/tester/MAC_mapping/MUL
+# ** Error: Cout error 0
+#    Time: 1 ns  Iteration: 0  Instance: /aritmetic_unit_tb
+# ** Error: Cout error 0
+#    Time: 2 ns  Iteration: 0  Instance: /aritmetic_unit_tb
+# ** Error: Cout error 0
+#    Time: 3 ns  Iteration: 0  Instance: /aritmetic_unit_tb
+# ** Error: Cout error 0
+#    Time: 4 ns  Iteration: 0  Instance: /aritmetic_unit_tb
+quit -sim
+# Compile of Aritmetic_Unit_TB.vhd was successful.
+vsim -gui work.aritmetic_unit_tb
+# vsim -gui work.aritmetic_unit_tb 
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.std_logic_arith(body)
+# Loading ieee.std_logic_unsigned(body)
+# Loading ieee.numeric_std(body)
+# Loading work.aritmetic_unit_tb(rtl)
+# Loading work.aritmetic_unit(arch_aritmetic_unit)
+# Loading work.mac_struct(arch_mac_struct)
+# Loading work.n_bit_multiplication_behavioral(behavioral_arch)
+# Loading work.nx2_bit_full_adder(arch_2n_bit_full_adder)
+# Loading work.xor_gate(xor_gate)
+# Loading work.full_adder_struct(arch_full_adder)
+# Loading work.and_gate(and_gate)
+# Loading work.or_gate(or_gate)
+# Loading work.selector_fa(behavioral_arch)
+# Loading work.selector_mul(behavioral_arch)
+add wave -position end  sim:/aritmetic_unit_tb/inA_tmp
+add wave -position end  sim:/aritmetic_unit_tb/inB_tmp
+add wave -position end  sim:/aritmetic_unit_tb/clk_q
+add wave -position end  sim:/aritmetic_unit_tb/Cout
+add wave -position end  sim:/aritmetic_unit_tb/opcode_q
+add wave -position end  sim:/aritmetic_unit_tb/sum
+add wave -position end  sim:/aritmetic_unit_tb/mul
+add wave -position end  sim:/aritmetic_unit_tb/Acc
+run
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 0  Instance: /aritmetic_unit_tb/tester/MUL_mapping
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 0  Instance: /aritmetic_unit_tb/tester/MUL_mapping
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 0  Instance: /aritmetic_unit_tb/tester/MAC_mapping/MUL
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 1  Instance: /aritmetic_unit_tb/tester/MAC_mapping/MUL
+# ** Error: Cout error 0
+#    Time: 1 ns  Iteration: 0  Instance: /aritmetic_unit_tb
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 2 ns  Iteration: 0  Instance: /aritmetic_unit_tb
+# ** Error: sum error 0
+#    Time: 2 ns  Iteration: 0  Instance: /aritmetic_unit_tb
+# ** Error: Cout error 0
+#    Time: 2 ns  Iteration: 0  Instance: /aritmetic_unit_tb
+# ** Error: Cout error 0
+#    Time: 3 ns  Iteration: 0  Instance: /aritmetic_unit_tb
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 4 ns  Iteration: 0  Instance: /aritmetic_unit_tb
+# ** Error: sum error 0
+#    Time: 4 ns  Iteration: 0  Instance: /aritmetic_unit_tb
+# ** Error: Cout error 0
+#    Time: 4 ns  Iteration: 0  Instance: /aritmetic_unit_tb
+restart -f
+run
+# Break in Process line__174 at C:/Users/Dell/Desktop/programs/CPU/CPU/Ass1New/Aritmetic_Unit.vhd line 176
+run -continue
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 0  Instance: /aritmetic_unit_tb/tester/MUL_mapping
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 0  Instance: /aritmetic_unit_tb/tester/MUL_mapping
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 0  Instance: /aritmetic_unit_tb/tester/MAC_mapping/MUL
+# Break in Process line__174 at C:/Users/Dell/Desktop/programs/CPU/CPU/Ass1New/Aritmetic_Unit.vhd line 176
+run -continue
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 1  Instance: /aritmetic_unit_tb/tester/MAC_mapping/MUL
+# Break in Process line__174 at C:/Users/Dell/Desktop/programs/CPU/CPU/Ass1New/Aritmetic_Unit.vhd line 176
+run -continue
+# ** Error: Cout error 0
+#    Time: 1 ns  Iteration: 0  Instance: /aritmetic_unit_tb
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 2 ns  Iteration: 0  Instance: /aritmetic_unit_tb
+# ** Error: sum error 0
+#    Time: 2 ns  Iteration: 0  Instance: /aritmetic_unit_tb
+# ** Error: Cout error 0
+#    Time: 2 ns  Iteration: 0  Instance: /aritmetic_unit_tb
+# ** Error: Cout error 0
+#    Time: 3 ns  Iteration: 0  Instance: /aritmetic_unit_tb
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 4 ns  Iteration: 0  Instance: /aritmetic_unit_tb
+# ** Error: sum error 0
+#    Time: 4 ns  Iteration: 0  Instance: /aritmetic_unit_tb
+# ** Error: Cout error 0
+#    Time: 4 ns  Iteration: 0  Instance: /aritmetic_unit_tb
+step
+step
+step
+step
+step
+# ** Error: Cout error 0
+#    Time: 5 ns  Iteration: 0  Instance: /aritmetic_unit_tb
+step
+step
+step
+step
+step
+step
+step
+step
+step
+step
+step
+step
+step
+step
+step
+step
+step
+step
+step
+step
+step
+step
+step
+step
+step
+step
+step
+step
+step
+step
+step
+step
+step
+step
+step
+step
+step
+step
+# Next activity is in 1 ns.
+step
+step
+step
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 6 ns  Iteration: 0  Instance: /aritmetic_unit_tb
+step
+# ** Error: sum error 0
+#    Time: 6 ns  Iteration: 0  Instance: /aritmetic_unit_tb
+step
+step
+# ** Error: Cout error 0
+#    Time: 6 ns  Iteration: 0  Instance: /aritmetic_unit_tb
+step
+step
+quit -sim
+# Load canceled
+# Load canceled
+# Compile of Aritmetic_Unit_TB.vhd was successful.
+vsim -gui work.aritmetic_unit_tb
+# vsim -gui work.aritmetic_unit_tb 
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.std_logic_arith(body)
+# Loading ieee.std_logic_unsigned(body)
+# Loading ieee.numeric_std(body)
+# Loading work.aritmetic_unit_tb(rtl)
+# Loading work.aritmetic_unit(arch_aritmetic_unit)
+# Loading work.mac_struct(arch_mac_struct)
+# Loading work.n_bit_multiplication_behavioral(behavioral_arch)
+# Loading work.nx2_bit_full_adder(arch_2n_bit_full_adder)
+# Loading work.xor_gate(xor_gate)
+# Loading work.full_adder_struct(arch_full_adder)
+# Loading work.and_gate(and_gate)
+# Loading work.or_gate(or_gate)
+# Loading work.selector_fa(behavioral_arch)
+# Loading work.selector_mul(behavioral_arch)
+add wave -position end  sim:/aritmetic_unit_tb/inA_tmp
+add wave -position end  sim:/aritmetic_unit_tb/inB_tmp
+add wave -position end  sim:/aritmetic_unit_tb/clk_q
+add wave -position end  sim:/aritmetic_unit_tb/Cout
+add wave -position end  sim:/aritmetic_unit_tb/opcode_q
+add wave -position end  sim:/aritmetic_unit_tb/sum
+add wave -position end  sim:/aritmetic_unit_tb/mul
+add wave -position end  sim:/aritmetic_unit_tb/Acc
+run
+# Break in Process line__174 at C:/Users/Dell/Desktop/programs/CPU/CPU/Ass1New/Aritmetic_Unit.vhd line 176
+run -continue
+# Break in Architecture behavioral_Arch at C:/Users/Dell/Desktop/programs/CPU/CPU/Ass1New/n_bit_mul_behavioral.vhd line 25
+run -continue
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 0  Instance: /aritmetic_unit_tb/tester/MUL_mapping
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 0  Instance: /aritmetic_unit_tb/tester/MUL_mapping
+# Break in Architecture behavioral_Arch at C:/Users/Dell/Desktop/programs/CPU/CPU/Ass1New/n_bit_mul_behavioral.vhd line 25
+run -continue
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 0  Instance: /aritmetic_unit_tb/tester/MAC_mapping/MUL
+# Break in Process line__174 at C:/Users/Dell/Desktop/programs/CPU/CPU/Ass1New/Aritmetic_Unit.vhd line 176
+run -continue
+# Break in Architecture behavioral_Arch at C:/Users/Dell/Desktop/programs/CPU/CPU/Ass1New/n_bit_mul_behavioral.vhd line 25
+step
+run -continue
+# Break in Architecture behavioral_Arch at C:/Users/Dell/Desktop/programs/CPU/CPU/Ass1New/n_bit_mul_behavioral.vhd line 25
+step
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 1  Instance: /aritmetic_unit_tb/tester/MAC_mapping/MUL
+step
+run -continue
+# Break in Process line__174 at C:/Users/Dell/Desktop/programs/CPU/CPU/Ass1New/Aritmetic_Unit.vhd line 176
+run -continue
+# ** Error: Cout error 0
+#    Time: 1 ns  Iteration: 0  Instance: /aritmetic_unit_tb
+# Break in Process line__28 at C:/Users/Dell/Desktop/programs/CPU/CPU/Ass1New/Selector_MUL.vhd line 33
+run -continue
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 3 ns  Iteration: 0  Instance: /aritmetic_unit_tb
+# ** Error: sum error 0
+#    Time: 3 ns  Iteration: 0  Instance: /aritmetic_unit_tb
+# ** Error: Cout error 0
+#    Time: 3 ns  Iteration: 0  Instance: /aritmetic_unit_tb
+# ** Error: Cout error 0
+#    Time: 4 ns  Iteration: 0  Instance: /aritmetic_unit_tb
+quit -sim
+# Break key hit 
+# Compile of Selector_MUL.vhd failed with 1 errors.
+# Compile of Selector_MUL.vhd was successful with warnings.
+vsim -gui work.aritmetic_unit_tb
+# vsim -gui work.aritmetic_unit_tb 
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.std_logic_arith(body)
+# Loading ieee.std_logic_unsigned(body)
+# Loading ieee.numeric_std(body)
+# Loading work.aritmetic_unit_tb(rtl)
+# Loading work.aritmetic_unit(arch_aritmetic_unit)
+# Loading work.mac_struct(arch_mac_struct)
+# Loading work.n_bit_multiplication_behavioral(behavioral_arch)
+# Loading work.nx2_bit_full_adder(arch_2n_bit_full_adder)
+# Loading work.xor_gate(xor_gate)
+# Loading work.full_adder_struct(arch_full_adder)
+# Loading work.and_gate(and_gate)
+# Loading work.or_gate(or_gate)
+# Loading work.selector_fa(behavioral_arch)
+# Loading work.selector_mul(behavioral_arch)
+add wave -position end  sim:/aritmetic_unit_tb/inA_tmp
+add wave -position end  sim:/aritmetic_unit_tb/inB_tmp
+add wave -position end  sim:/aritmetic_unit_tb/clk_q
+add wave -position end  sim:/aritmetic_unit_tb/Cout
+add wave -position end  sim:/aritmetic_unit_tb/opcode_q
+add wave -position end  sim:/aritmetic_unit_tb/sum
+add wave -position end  sim:/aritmetic_unit_tb/mul
+add wave -position end  sim:/aritmetic_unit_tb/Acc
+run
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 0  Instance: /aritmetic_unit_tb/tester/MUL_mapping
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 1  Instance: /aritmetic_unit_tb/tester/MAC_mapping/MUL
+# ** Error: Cout error 0
+#    Time: 1 ns  Iteration: 0  Instance: /aritmetic_unit_tb
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 3 ns  Iteration: 0  Instance: /aritmetic_unit_tb
+# ** Error: sum error 0
+#    Time: 3 ns  Iteration: 0  Instance: /aritmetic_unit_tb
+# ** Error: Cout error 0
+#    Time: 3 ns  Iteration: 0  Instance: /aritmetic_unit_tb
+# ** Error: Cout error 0
+#    Time: 4 ns  Iteration: 0  Instance: /aritmetic_unit_tb
+quit -sim
+# Compile of Aritmetic_Unit_TB.vhd failed with 3 errors.
+# Compile of Aritmetic_Unit_TB.vhd failed with 2 errors.
+# Compile of 2N_bit_FA_TB.vhd was successful.
+# Compile of Adder_test_tmp.vhd was successful.
+# Compile of And_gate_Test.vhd was successful.
+# Compile of Counter.vhd was successful.
+# Compile of D_FlipFlop_TB.vhd was successful.
+# Compile of MUL_TB.vhd was successful.
+# Compile of n_bit_adder_test.vhd was successful.
+# Compile of nX2_bit_FA_TB.vhd was successful.
+# Compile of one_bit_adder_test_struct.vhd was successful.
+# Compile of Or_gate_Test.vhd was successful.
+# Compile of Test_Counter.vhd was successful.
+# Compile of Xor_gate_Test.vhd was successful.
+# Compile of 2N_bit_FA.vhd was successful.
+# Compile of And_Gate.vhd was successful.
+# Compile of D_FlipFlop.vhd was successful.
+# Compile of MAC_stract.vhd was successful.
+# Compile of Or_Gate.vhd was successful.
+# Compile of Shift_reg.vhd was successful with warnings.
+# Compile of Xor_Gate.vhd was successful.
+# Compile of n_Bit_Adder.vhd was successful.
+# Compile of n_bit_Adder_behavioral.vhd was successful.
+# Compile of n_bit_mul_behavioral.vhd was successful.
+# Compile of one_bit_adder_struct.vhd was successful.
+# Compile of Shift_TB.vhd was successful.
+# Compile of Shift_Reg_working.vhd was successful.
+# Compile of Shift_Reg_Working_TB.vhd was successful.
+# Compile of Minimaizer_Maximaizer.vhd was successful.
+# Compile of Min_Max_TB.vhd was successful.
+# Compile of Aritmetic_Unit.vhd was successful with warnings.
+# Compile of Aritmetic_Unit_TB.vhd was successful.
+# Compile of Selector_FA.vhd was successful.
+# Compile of Selector_MUL.vhd was successful with warnings.
+# Compile of Mux4_1.vhd was successful.
+# Compile of Output_Selector.vhd was successful.
+# Compile of Shift_reg_MUXER.vhd was successful.
+# Compile of Shift_Reg_Muxer_TB.vhd was successful.
+# Compile of Mux8_1.vhd was successful.
+# Compile of Selector_FA_TB.vhd was successful.
+# 38 compiles, 0 failed with no errors. 
+# Compile of Aritmetic_Unit.vhd was successful with warnings.
+# Compile of Aritmetic_Unit.vhd was successful with warnings.
+vsim -gui work.aritmetic_unit_tb
+# vsim -gui work.aritmetic_unit_tb 
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.std_logic_arith(body)
+# Loading ieee.std_logic_unsigned(body)
+# Loading ieee.numeric_std(body)
+# Loading work.aritmetic_unit_tb(rtl)
+# Loading work.aritmetic_unit(arch_aritmetic_unit)
+# Loading work.mac_struct(arch_mac_struct)
+# Loading work.n_bit_multiplication_behavioral(behavioral_arch)
+# Loading work.nx2_bit_full_adder(arch_2n_bit_full_adder)
+# Loading work.xor_gate(xor_gate)
+# Loading work.full_adder_struct(arch_full_adder)
+# Loading work.and_gate(and_gate)
+# Loading work.or_gate(or_gate)
+# Loading work.selector_fa(behavioral_arch)
+# Loading work.selector_mul(behavioral_arch)
+add wave -position end  sim:/aritmetic_unit_tb/inA_tmp
+add wave -position end  sim:/aritmetic_unit_tb/inB_tmp
+add wave -position end  sim:/aritmetic_unit_tb/clk_q
+add wave -position end  sim:/aritmetic_unit_tb/opcode_q
+add wave -position end  sim:/aritmetic_unit_tb/sum
+add wave -position end  sim:/aritmetic_unit_tb/mul
+add wave -position end  sim:/aritmetic_unit_tb/Acc
+run
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 0  Instance: /aritmetic_unit_tb/tester/MUL_mapping
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 1  Instance: /aritmetic_unit_tb/tester/MAC_mapping/MUL
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 3 ns  Iteration: 0  Instance: /aritmetic_unit_tb
+# ** Error: sum error 0
+#    Time: 3 ns  Iteration: 0  Instance: /aritmetic_unit_tb
+restart -f
+run
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 0  Instance: /aritmetic_unit_tb/tester/MUL_mapping
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 1  Instance: /aritmetic_unit_tb/tester/MAC_mapping/MUL
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 3 ns  Iteration: 0  Instance: /aritmetic_unit_tb
+# ** Error: sum error 0
+#    Time: 3 ns  Iteration: 0  Instance: /aritmetic_unit_tb
+quit -sim
+# Load canceled
+# Compile of Aritmetic_Unit.vhd was successful with warnings.
+# Compile of Aritmetic_Unit.vhd was successful with warnings.
+vsim -gui work.aritmetic_unit_tb
+# vsim -gui work.aritmetic_unit_tb 
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.std_logic_arith(body)
+# Loading ieee.std_logic_unsigned(body)
+# Loading ieee.numeric_std(body)
+# Loading work.aritmetic_unit_tb(rtl)
+# Loading work.aritmetic_unit(arch_aritmetic_unit)
+# Loading work.mac_struct(arch_mac_struct)
+# Loading work.n_bit_multiplication_behavioral(behavioral_arch)
+# Loading work.nx2_bit_full_adder(arch_2n_bit_full_adder)
+# Loading work.xor_gate(xor_gate)
+# Loading work.full_adder_struct(arch_full_adder)
+# Loading work.and_gate(and_gate)
+# Loading work.or_gate(or_gate)
+# Loading work.selector_fa(behavioral_arch)
+# Loading work.selector_mul(behavioral_arch)
+add wave -position end  sim:/aritmetic_unit_tb/inA_tmp
+add wave -position end  sim:/aritmetic_unit_tb/inB_tmp
+add wave -position end  sim:/aritmetic_unit_tb/clk_q
+add wave -position end  sim:/aritmetic_unit_tb/opcode_q
+add wave -position end  sim:/aritmetic_unit_tb/sum
+add wave -position end  sim:/aritmetic_unit_tb/mul
+add wave -position end  sim:/aritmetic_unit_tb/Acc
+run
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 0  Instance: /aritmetic_unit_tb/tester/MUL_mapping
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 1  Instance: /aritmetic_unit_tb/tester/MAC_mapping/MUL
+quit -sim
+# Compile of Aritmetic_Unit_TB.vhd was successful.
+vsim -gui work.aritmetic_unit_tb
+# vsim -gui work.aritmetic_unit_tb 
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.std_logic_arith(body)
+# Loading ieee.std_logic_unsigned(body)
+# Loading ieee.numeric_std(body)
+# Loading work.aritmetic_unit_tb(rtl)
+# Loading work.aritmetic_unit(arch_aritmetic_unit)
+# Loading work.mac_struct(arch_mac_struct)
+# Loading work.n_bit_multiplication_behavioral(behavioral_arch)
+# Loading work.nx2_bit_full_adder(arch_2n_bit_full_adder)
+# Loading work.xor_gate(xor_gate)
+# Loading work.full_adder_struct(arch_full_adder)
+# Loading work.and_gate(and_gate)
+# Loading work.or_gate(or_gate)
+# Loading work.selector_fa(behavioral_arch)
+# Loading work.selector_mul(behavioral_arch)
+add wave -position end  sim:/aritmetic_unit_tb/inA_tmp
+add wave -position end  sim:/aritmetic_unit_tb/inB_tmp
+add wave -position end  sim:/aritmetic_unit_tb/clk_q
+add wave -position end  sim:/aritmetic_unit_tb/opcode_q
+add wave -position end  sim:/aritmetic_unit_tb/sum
+add wave -position end  sim:/aritmetic_unit_tb/mul
+add wave -position end  sim:/aritmetic_unit_tb/Acc
+run
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 0  Instance: /aritmetic_unit_tb/tester/MUL_mapping
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 1  Instance: /aritmetic_unit_tb/tester/MAC_mapping/MUL
+restart -f
+run
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 0  Instance: /aritmetic_unit_tb/tester/MUL_mapping
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 1  Instance: /aritmetic_unit_tb/tester/MAC_mapping/MUL
+# Break in Process testbench at C:/Users/Dell/Desktop/programs/CPU/CPU/Ass1New/Aritmetic_Unit_TB.vhd line 91
+step
+step
+step
+step
+step
+step
+step
+step
+step
+step
+step
+step
+step
+step
+step
+step
+step
+step
+step
+step
+step
+step
+step
+step
+step
+step
+step
+step
+step
+step
+step
+step
+step
+step
+step
+step
+step
+step
+step
+step
+step
+step
+step
+step
+step
+step
+step
+step
+step
+step
+step
+step
+step
+step
+step
+# Next activity is in 1 ns.
+step
+step
+quit -sim
+# Compile of Aritmetic_Unit_TB.vhd was successful.
+vsim -gui work.aritmetic_unit_tb
+# vsim -gui work.aritmetic_unit_tb 
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.std_logic_arith(body)
+# Loading ieee.std_logic_unsigned(body)
+# Loading ieee.numeric_std(body)
+# Loading work.aritmetic_unit_tb(rtl)
+# Loading work.aritmetic_unit(arch_aritmetic_unit)
+# Loading work.mac_struct(arch_mac_struct)
+# Loading work.n_bit_multiplication_behavioral(behavioral_arch)
+# Loading work.nx2_bit_full_adder(arch_2n_bit_full_adder)
+# Loading work.xor_gate(xor_gate)
+# Loading work.full_adder_struct(arch_full_adder)
+# Loading work.and_gate(and_gate)
+# Loading work.or_gate(or_gate)
+# Loading work.selector_fa(behavioral_arch)
+# Loading work.selector_mul(behavioral_arch)
+add wave -position end  sim:/aritmetic_unit_tb/inA_tmp
+add wave -position end  sim:/aritmetic_unit_tb/inB_tmp
+add wave -position end  sim:/aritmetic_unit_tb/clk_q
+add wave -position end  sim:/aritmetic_unit_tb/opcode_q
+add wave -position end  sim:/aritmetic_unit_tb/sum
+add wave -position end  sim:/aritmetic_unit_tb/mul
+add wave -position end  sim:/aritmetic_unit_tb/Acc
+run
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 0  Instance: /aritmetic_unit_tb/tester/MUL_mapping
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 1  Instance: /aritmetic_unit_tb/tester/MAC_mapping/MUL
+# ** Error: sum error 0
+#    Time: 1 ns  Iteration: 0  Instance: /aritmetic_unit_tb
+quit -sim
+# Compile of Aritmetic_Unit.vhd was successful with warnings.
+vsim -gui work.aritmetic_unit_tb
+# vsim -gui work.aritmetic_unit_tb 
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.std_logic_arith(body)
+# Loading ieee.std_logic_unsigned(body)
+# Loading ieee.numeric_std(body)
+# Loading work.aritmetic_unit_tb(rtl)
+# Loading work.aritmetic_unit(arch_aritmetic_unit)
+# Loading work.mac_struct(arch_mac_struct)
+# Loading work.n_bit_multiplication_behavioral(behavioral_arch)
+# Loading work.nx2_bit_full_adder(arch_2n_bit_full_adder)
+# Loading work.xor_gate(xor_gate)
+# Loading work.full_adder_struct(arch_full_adder)
+# Loading work.and_gate(and_gate)
+# Loading work.or_gate(or_gate)
+# Loading work.selector_fa(behavioral_arch)
+# Loading work.selector_mul(behavioral_arch)
+add wave -position end  sim:/aritmetic_unit_tb/inA_tmp
+add wave -position end  sim:/aritmetic_unit_tb/inB_tmp
+add wave -position end  sim:/aritmetic_unit_tb/clk_q
+add wave -position end  sim:/aritmetic_unit_tb/opcode_q
+add wave -position end  sim:/aritmetic_unit_tb/sum
+add wave -position end  sim:/aritmetic_unit_tb/mul
+add wave -position end  sim:/aritmetic_unit_tb/Acc
+run
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 0  Instance: /aritmetic_unit_tb/tester/MUL_mapping
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 1  Instance: /aritmetic_unit_tb/tester/MAC_mapping/MUL
+quit -sim
+# Compile of Aritmetic_Unit_TB.vhd was successful.
+vsim -gui work.aritmetic_unit_tb
+# vsim -gui work.aritmetic_unit_tb 
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.std_logic_arith(body)
+# Loading ieee.std_logic_unsigned(body)
+# Loading ieee.numeric_std(body)
+# Loading work.aritmetic_unit_tb(rtl)
+# Loading work.aritmetic_unit(arch_aritmetic_unit)
+# Loading work.mac_struct(arch_mac_struct)
+# Loading work.n_bit_multiplication_behavioral(behavioral_arch)
+# Loading work.nx2_bit_full_adder(arch_2n_bit_full_adder)
+# Loading work.xor_gate(xor_gate)
+# Loading work.full_adder_struct(arch_full_adder)
+# Loading work.and_gate(and_gate)
+# Loading work.or_gate(or_gate)
+# Loading work.selector_fa(behavioral_arch)
+# Loading work.selector_mul(behavioral_arch)
+add wave -position end  sim:/aritmetic_unit_tb/inA_tmp
+add wave -position end  sim:/aritmetic_unit_tb/inB_tmp
+add wave -position end  sim:/aritmetic_unit_tb/clk_q
+add wave -position end  sim:/aritmetic_unit_tb/opcode_q
+add wave -position end  sim:/aritmetic_unit_tb/sum
+add wave -position end  sim:/aritmetic_unit_tb/mul
+add wave -position end  sim:/aritmetic_unit_tb/Acc
+run
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 0  Instance: /aritmetic_unit_tb/tester/MUL_mapping
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 1  Instance: /aritmetic_unit_tb/tester/MAC_mapping/MUL
+quit -sim
+# Compile of Aritmetic_Unit.vhd was successful with warnings.
+# Compile of Selector_FA.vhd was successful.
+# Compile of Aritmetic_Unit_TB.vhd failed with 2 errors.
+# Compile of Aritmetic_Unit_TB.vhd was successful.
+vsim -gui work.aritmetic_unit_tb
+# vsim -gui work.aritmetic_unit_tb 
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.std_logic_arith(body)
+# Loading ieee.std_logic_unsigned(body)
+# Loading ieee.numeric_std(body)
+# Loading work.aritmetic_unit_tb(rtl)
+# Loading work.aritmetic_unit(arch_aritmetic_unit)
+# Loading work.mac_struct(arch_mac_struct)
+# Loading work.n_bit_multiplication_behavioral(behavioral_arch)
+# Loading work.nx2_bit_full_adder(arch_2n_bit_full_adder)
+# Loading work.xor_gate(xor_gate)
+# Loading work.full_adder_struct(arch_full_adder)
+# Loading work.and_gate(and_gate)
+# Loading work.or_gate(or_gate)
+# Loading work.selector_fa(behavioral_arch)
+# Loading work.selector_mul(behavioral_arch)
+add wave -position end  sim:/aritmetic_unit_tb/inA_tmp
+add wave -position end  sim:/aritmetic_unit_tb/inB_tmp
+add wave -position end  sim:/aritmetic_unit_tb/clk_q
+add wave -position end  sim:/aritmetic_unit_tb/opcode_q
+add wave -position end  sim:/aritmetic_unit_tb/sum
+add wave -position end  sim:/aritmetic_unit_tb/mul
+add wave -position end  sim:/aritmetic_unit_tb/Acc
+run
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 0  Instance: /aritmetic_unit_tb/tester/MUL_mapping
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 1  Instance: /aritmetic_unit_tb/tester/MAC_mapping/MUL
+quit -sim

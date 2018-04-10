@@ -1,0 +1,375 @@
+C:/Users/Dell/Desktop/programs/CPU/CPU/Ass1New/Aritmetic_Unit.vhd {2 {vcom -work work -2002 -explicit C:/Users/Dell/Desktop/programs/CPU/CPU/Ass1New/Aritmetic_Unit.vhd
+Model Technology ModelSim ALTERA vcom 10.1b Compiler 2012.04 Apr 27 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity Aritmetic_Unit
+-- Compiling architecture Arch_Aritmetic_Unit of Aritmetic_Unit
+** Warning: C:/Users/Dell/Desktop/programs/CPU/CPU/Ass1New/Aritmetic_Unit.vhd(111): (vcom-1074) Non-locally static OTHERS choice is allowed only if it is the only choice of the only association.
+
+
+} {} {}} C:/Users/Dell/Desktop/programs/CPU/CPU/Ass1New/MAC_stract.vhd {1 {vcom -work work -2002 -explicit C:/Users/Dell/Desktop/programs/CPU/CPU/Ass1New/MAC_stract.vhd
+Model Technology ModelSim ALTERA vcom 10.1b Compiler 2012.04 Apr 27 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity MAC_struct
+-- Compiling architecture Arch_MAC_struct of MAC_struct
+
+} {} {}} C:/Users/Dell/Desktop/programs/CPU/CPU/Ass1New/Xor_Gate.vhd {1 {vcom -work work -2002 -explicit C:/Users/Dell/Desktop/programs/CPU/CPU/Ass1New/Xor_Gate.vhd
+Model Technology ModelSim ALTERA vcom 10.1b Compiler 2012.04 Apr 27 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity xor_Gate
+-- Compiling architecture XOR_Gate of xor_Gate
+
+} {} {}} C:/Users/Dell/Desktop/programs/CPU/CPU/Ass1New/Or_Gate.vhd {1 {vcom -work work -2002 -explicit C:/Users/Dell/Desktop/programs/CPU/CPU/Ass1New/Or_Gate.vhd
+Model Technology ModelSim ALTERA vcom 10.1b Compiler 2012.04 Apr 27 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity or_Gate
+-- Compiling architecture OR_Gate of or_Gate
+
+} {} {}} C:/Users/Dell/Desktop/programs/CPU/CPU/Ass1New/Mux8_1.vhd {1 {vcom -work work -2002 -explicit C:/Users/Dell/Desktop/programs/CPU/CPU/Ass1New/Mux8_1.vhd
+Model Technology ModelSim ALTERA vcom 10.1b Compiler 2012.04 Apr 27 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity mux8_1
+-- Compiling architecture dataflow of mux8_1
+
+} {} {}} C:/Users/Dell/Desktop/programs/CPU/CPU/Ass1New/Shift_TB.vhd {1 {vcom -work work -2002 -explicit C:/Users/Dell/Desktop/programs/CPU/CPU/Ass1New/Shift_TB.vhd
+Model Technology ModelSim ALTERA vcom 10.1b Compiler 2012.04 Apr 27 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity Shift_TB
+-- Compiling architecture rtl of Shift_TB
+
+} {} {}} C:/Users/Dell/Desktop/programs/CPU/CPU/Ass1New/Shift_reg.vhd {2 {vcom -work work -2002 -explicit C:/Users/Dell/Desktop/programs/CPU/CPU/Ass1New/Shift_reg.vhd
+Model Technology ModelSim ALTERA vcom 10.1b Compiler 2012.04 Apr 27 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity Shift_reg
+-- Compiling architecture Arch_Shift_reg of Shift_reg
+** Warning: [9] C:/Users/Dell/Desktop/programs/CPU/CPU/Ass1New/Shift_reg.vhd(23): (vcom-1013) Initial value of "input_tmp" depends on value of signal "inputA".
+
+
+} {} {}} C:/Users/Dell/Desktop/programs/CPU/CPU/Ass1New/n_Bit_Adder.vhd {1 {vcom -work work -2002 -explicit C:/Users/Dell/Desktop/programs/CPU/CPU/Ass1New/n_Bit_Adder.vhd
+Model Technology ModelSim ALTERA vcom 10.1b Compiler 2012.04 Apr 27 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity n_Bit_Full_Adder
+-- Compiling architecture Arch_N_Bit_Full_Adder of n_Bit_Full_Adder
+
+} {} {}} C:/Users/Dell/Desktop/programs/CPU/CPU/Ass1New/And_Gate.vhd {1 {vcom -work work -2002 -explicit C:/Users/Dell/Desktop/programs/CPU/CPU/Ass1New/And_Gate.vhd
+Model Technology ModelSim ALTERA vcom 10.1b Compiler 2012.04 Apr 27 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity and_Gate
+-- Compiling architecture AND_Gate of and_Gate
+
+} {} {}} C:/Users/Dell/Desktop/programs/CPU/CPU/Ass1New/Selector_FA_TB.vhd {1 {vcom -work work -2002 -explicit C:/Users/Dell/Desktop/programs/CPU/CPU/Ass1New/Selector_FA_TB.vhd
+Model Technology ModelSim ALTERA vcom 10.1b Compiler 2012.04 Apr 27 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity Selector_FA_TB
+-- Compiling architecture rtl of Selector_FA_TB
+-- Loading package NUMERIC_STD
+-- Loading entity Selector_FA
+
+} {} {}} C:/Users/Dell/Desktop/programs/CPU/CPU/Ass1New/D_FlipFlop_TB.vhd {1 {vcom -work work -2002 -explicit C:/Users/Dell/Desktop/programs/CPU/CPU/Ass1New/D_FlipFlop_TB.vhd
+Model Technology ModelSim ALTERA vcom 10.1b Compiler 2012.04 Apr 27 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity D_FlipFlop_TB
+-- Compiling architecture rtl of D_FlipFlop_TB
+
+} {} {}} C:/Users/Dell/Desktop/programs/CPU/CPU/Ass1New/Selector_MUL.vhd {2 {vcom -work work -2002 -explicit C:/Users/Dell/Desktop/programs/CPU/CPU/Ass1New/Selector_MUL.vhd
+Model Technology ModelSim ALTERA vcom 10.1b Compiler 2012.04 Apr 27 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity Selector_MUL
+** Warning: C:/Users/Dell/Desktop/programs/CPU/CPU/Ass1New/Selector_MUL.vhd(19): (vcom-1074) Non-locally static OTHERS choice is allowed only if it is the only choice of the only association.
+
+-- Compiling architecture behavioral_Arch of Selector_MUL
+
+} {} {}} C:/Users/Dell/Desktop/programs/CPU/CPU/Ass1New/Counter.vhd {1 {vcom -work work -2002 -explicit C:/Users/Dell/Desktop/programs/CPU/CPU/Ass1New/Counter.vhd
+Model Technology ModelSim ALTERA vcom 10.1b Compiler 2012.04 Apr 27 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity counter
+-- Compiling architecture rtl of counter
+
+} {} {}} C:/Users/Dell/Desktop/programs/CPU/CPU/Ass1New/Xor_gate_Test.vhd {1 {vcom -work work -2002 -explicit C:/Users/Dell/Desktop/programs/CPU/CPU/Ass1New/Xor_gate_Test.vhd
+Model Technology ModelSim ALTERA vcom 10.1b Compiler 2012.04 Apr 27 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity xor_Gate_Tset
+-- Compiling architecture rtl of xor_Gate_Tset
+
+} {} {}} C:/Users/Dell/Desktop/programs/CPU/CPU/Ass1New/Or_gate_Test.vhd {1 {vcom -work work -2002 -explicit C:/Users/Dell/Desktop/programs/CPU/CPU/Ass1New/Or_gate_Test.vhd
+Model Technology ModelSim ALTERA vcom 10.1b Compiler 2012.04 Apr 27 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity or_Gate_Tset
+-- Compiling architecture rtl of or_Gate_Tset
+
+} {} {}} C:/Users/Dell/Desktop/programs/CPU/CPU/Ass1New/Output_Selector.vhd {1 {vcom -work work -2002 -explicit C:/Users/Dell/Desktop/programs/CPU/CPU/Ass1New/Output_Selector.vhd
+Model Technology ModelSim ALTERA vcom 10.1b Compiler 2012.04 Apr 27 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity Output_Selector
+-- Compiling architecture dataflow of Output_Selector
+
+} {} {}} C:/Users/Dell/Desktop/programs/CPU/CPU/Ass1New/2N_bit_FA_TB.vhd {1 {vcom -work work -2002 -explicit C:/Users/Dell/Desktop/programs/CPU/CPU/Ass1New/2N_bit_FA_TB.vhd
+Model Technology ModelSim ALTERA vcom 10.1b Compiler 2012.04 Apr 27 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity n_bit_adder_Test
+-- Compiling architecture rtl of n_bit_adder_Test
+
+} {} {}} C:/Users/Dell/Desktop/programs/CPU/CPU/Ass1New/nX2_bit_FA_TB.vhd {1 {vcom -work work -2002 -explicit C:/Users/Dell/Desktop/programs/CPU/CPU/Ass1New/nX2_bit_FA_TB.vhd
+Model Technology ModelSim ALTERA vcom 10.1b Compiler 2012.04 Apr 27 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity nX2_bit_adder_Test
+-- Compiling architecture rtl of nX2_bit_adder_Test
+
+} {} {}} C:/Users/Dell/Desktop/programs/CPU/CPU/Ass1New/one_bit_adder_test_struct.vhd {1 {vcom -work work -2002 -explicit C:/Users/Dell/Desktop/programs/CPU/CPU/Ass1New/one_bit_adder_test_struct.vhd
+Model Technology ModelSim ALTERA vcom 10.1b Compiler 2012.04 Apr 27 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity one_bit_adder_Test
+-- Compiling architecture rtl of one_bit_adder_Test
+
+} {} {}} C:/Users/Dell/Desktop/programs/CPU/CPU/Ass1New/n_bit_adder_test.vhd {1 {vcom -work work -2002 -explicit C:/Users/Dell/Desktop/programs/CPU/CPU/Ass1New/n_bit_adder_test.vhd
+Model Technology ModelSim ALTERA vcom 10.1b Compiler 2012.04 Apr 27 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity n_bit_adder_Test
+-- Compiling architecture rtl of n_bit_adder_Test
+
+} {} {}} C:/Users/Dell/Desktop/programs/CPU/CPU/Ass1New/And_gate_Test.vhd {1 {vcom -work work -2002 -explicit C:/Users/Dell/Desktop/programs/CPU/CPU/Ass1New/And_gate_Test.vhd
+Model Technology ModelSim ALTERA vcom 10.1b Compiler 2012.04 Apr 27 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity and_Gate_Tset
+-- Compiling architecture rtl of and_Gate_Tset
+
+} {} {}} C:/Users/Dell/Desktop/programs/CPU/CPU/Ass1New/Shift_reg_MUXER.vhd {1 {vcom -work work -2002 -explicit C:/Users/Dell/Desktop/programs/CPU/CPU/Ass1New/Shift_reg_MUXER.vhd
+Model Technology ModelSim ALTERA vcom 10.1b Compiler 2012.04 Apr 27 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity Shift_reg_MUXER
+-- Compiling architecture dataflow of Shift_reg_MUXER
+
+} {} {}} C:/Users/Dell/Desktop/programs/CPU/CPU/Ass1New/Minimaizer_Maximaizer.vhd {1 {vcom -work work -2002 -explicit C:/Users/Dell/Desktop/programs/CPU/CPU/Ass1New/Minimaizer_Maximaizer.vhd
+Model Technology ModelSim ALTERA vcom 10.1b Compiler 2012.04 Apr 27 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity Minimazier_Maximaizer
+-- Compiling architecture Arch_Minimazier_Maximaizer of Minimazier_Maximaizer
+
+} {} {}} C:/Users/Dell/Desktop/programs/CPU/CPU/Ass1New/Shift_Reg_working.vhd {1 {vcom -work work -2002 -explicit C:/Users/Dell/Desktop/programs/CPU/CPU/Ass1New/Shift_Reg_working.vhd
+Model Technology ModelSim ALTERA vcom 10.1b Compiler 2012.04 Apr 27 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity Shift_Reg_Working
+-- Compiling architecture Arch_Shift_reg of Shift_Reg_Working
+
+} {} {}} C:/Users/Dell/Desktop/programs/CPU/CPU/Ass1New/one_bit_adder_struct.vhd {1 {vcom -work work -2002 -explicit C:/Users/Dell/Desktop/programs/CPU/CPU/Ass1New/one_bit_adder_struct.vhd
+Model Technology ModelSim ALTERA vcom 10.1b Compiler 2012.04 Apr 27 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity Full_Adder_Struct
+-- Compiling architecture Arch_Full_Adder of Full_Adder_Struct
+
+} {} {}} C:/Users/Dell/Desktop/programs/CPU/CPU/Ass1New/MUL_TB.vhd {1 {vcom -work work -2002 -explicit C:/Users/Dell/Desktop/programs/CPU/CPU/Ass1New/MUL_TB.vhd
+Model Technology ModelSim ALTERA vcom 10.1b Compiler 2012.04 Apr 27 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity MUL_TB
+-- Compiling architecture rtl of MUL_TB
+
+} {} {}} C:/Users/Dell/Desktop/programs/CPU/CPU/Ass1New/2N_bit_FA.vhd {1 {vcom -work work -2002 -explicit C:/Users/Dell/Desktop/programs/CPU/CPU/Ass1New/2N_bit_FA.vhd
+Model Technology ModelSim ALTERA vcom 10.1b Compiler 2012.04 Apr 27 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity nX2_Bit_Full_Adder
+-- Compiling architecture Arch_2N_Bit_Full_Adder of nX2_Bit_Full_Adder
+
+} {} {}} C:/Users/Dell/Desktop/programs/CPU/CPU/Ass1New/n_bit_mul_behavioral.vhd {1 {vcom -work work -2002 -explicit C:/Users/Dell/Desktop/programs/CPU/CPU/Ass1New/n_bit_mul_behavioral.vhd
+Model Technology ModelSim ALTERA vcom 10.1b Compiler 2012.04 Apr 27 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity n_Bit_Multiplication_behavioral
+-- Compiling architecture behavioral_Arch of n_Bit_Multiplication_behavioral
+
+} {} {}} C:/Users/Dell/Desktop/programs/CPU/CPU/Ass1New/Mux4_1.vhd {1 {vcom -work work -2002 -explicit C:/Users/Dell/Desktop/programs/CPU/CPU/Ass1New/Mux4_1.vhd
+Model Technology ModelSim ALTERA vcom 10.1b Compiler 2012.04 Apr 27 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity mux4_1
+-- Compiling architecture dataflow of mux4_1
+
+} {} {}} C:/Users/Dell/Desktop/programs/CPU/CPU/Ass1New/Min_Max_TB.vhd {1 {vcom -work work -2002 -explicit C:/Users/Dell/Desktop/programs/CPU/CPU/Ass1New/Min_Max_TB.vhd
+Model Technology ModelSim ALTERA vcom 10.1b Compiler 2012.04 Apr 27 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity Min_Max_TB
+-- Compiling architecture rtl of Min_Max_TB
+-- Loading entity Minimazier_Maximaizer
+
+} {} {}} C:/Users/Dell/Desktop/programs/CPU/CPU/Ass1New/Selector_FA.vhd {1 {vcom -work work -2002 -explicit C:/Users/Dell/Desktop/programs/CPU/CPU/Ass1New/Selector_FA.vhd
+Model Technology ModelSim ALTERA vcom 10.1b Compiler 2012.04 Apr 27 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity Selector_FA
+-- Compiling architecture behavioral_Arch of Selector_FA
+
+} {} {}} C:/Users/Dell/Desktop/programs/CPU/CPU/Ass1New/D_FlipFlop.vhd {1 {vcom -work work -2002 -explicit C:/Users/Dell/Desktop/programs/CPU/CPU/Ass1New/D_FlipFlop.vhd
+Model Technology ModelSim ALTERA vcom 10.1b Compiler 2012.04 Apr 27 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity D_FlipFlop
+-- Compiling architecture Arch_D_FlipFlop of D_FlipFlop
+
+} {} {}} C:/Users/Dell/Desktop/programs/CPU/CPU/Ass1New/n_bit_Adder_behavioral.vhd {1 {vcom -work work -2002 -explicit C:/Users/Dell/Desktop/programs/CPU/CPU/Ass1New/n_bit_Adder_behavioral.vhd
+Model Technology ModelSim ALTERA vcom 10.1b Compiler 2012.04 Apr 27 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity nX2_Bit_Full_Adder_behavioral
+-- Compiling architecture behavioral_Arch of nX2_Bit_Full_Adder_behavioral
+
+} {} {}} C:/Users/Dell/Desktop/programs/CPU/CPU/Ass1New/Test_Counter.vhd {1 {vcom -work work -2002 -explicit C:/Users/Dell/Desktop/programs/CPU/CPU/Ass1New/Test_Counter.vhd
+Model Technology ModelSim ALTERA vcom 10.1b Compiler 2012.04 Apr 27 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity CounterTest
+-- Compiling architecture rtl of CounterTest
+
+} {} {}} C:/Users/Dell/Desktop/programs/CPU/CPU/Ass1New/Adder_test_tmp.vhd {1 {vcom -work work -2002 -explicit C:/Users/Dell/Desktop/programs/CPU/CPU/Ass1New/Adder_test_tmp.vhd
+Model Technology ModelSim ALTERA vcom 10.1b Compiler 2012.04 Apr 27 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity Adder_test
+-- Compiling architecture rtl of Adder_test
+
+} {} {}} C:/Users/Dell/Desktop/programs/CPU/CPU/Ass1New/Shift_Reg_Muxer_TB.vhd {1 {vcom -work work -2002 -explicit C:/Users/Dell/Desktop/programs/CPU/CPU/Ass1New/Shift_Reg_Muxer_TB.vhd
+Model Technology ModelSim ALTERA vcom 10.1b Compiler 2012.04 Apr 27 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity Shift_Test
+-- Compiling architecture rtl of Shift_Test
+-- Loading entity Shift_reg_MUXER
+
+} {} {}} C:/Users/Dell/Desktop/programs/CPU/CPU/Ass1New/Shift_Reg_Working_TB.vhd {1 {vcom -work work -2002 -explicit C:/Users/Dell/Desktop/programs/CPU/CPU/Ass1New/Shift_Reg_Working_TB.vhd
+Model Technology ModelSim ALTERA vcom 10.1b Compiler 2012.04 Apr 27 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity Shift_Reg_Working_TB
+-- Compiling architecture rtl of Shift_Reg_Working_TB
+-- Loading package NUMERIC_STD
+-- Loading entity Shift_Reg_Working
+
+} {} {}}

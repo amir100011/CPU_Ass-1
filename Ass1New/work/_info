@@ -1,0 +1,1708 @@
+m255
+K3
+13
+cModel Technology
+dC:\Users\Dell\Desktop\programs\CPU
+Eadder_test
+Z0 w1522249681
+Z1 DPx4 ieee 18 std_logic_unsigned 0 22 RYmj;=TK`k=k>D@Cz`zoB3
+Z2 DPx4 ieee 15 std_logic_arith 0 22 4`Y?g_lkdn;7UL9IiJck01
+Z3 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z4 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z5 dC:\Users\Dell\Desktop\programs\CPU\CPU\Ass1New
+Z6 8C:/Users/Dell/Desktop/programs/CPU/CPU/Ass1New/Adder_test_tmp.vhd
+Z7 FC:/Users/Dell/Desktop/programs/CPU/CPU/Ass1New/Adder_test_tmp.vhd
+l0
+L20
+V<faWzHlQoDhW;_MoOMO540
+Z8 OV;C;10.1b;51
+32
+Z9 !s108 1523394535.045000
+Z10 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/Dell/Desktop/programs/CPU/CPU/Ass1New/Adder_test_tmp.vhd|
+Z11 !s107 C:/Users/Dell/Desktop/programs/CPU/CPU/Ass1New/Adder_test_tmp.vhd|
+Z12 o-work work -2002 -explicit -O0
+Z13 tExplicit 1
+!s100 TLH[D@UD6A31SMODACW>22
+!i10b 1
+Artl
+R1
+R2
+R3
+R4
+DEx4 work 10 adder_test 0 22 <faWzHlQoDhW;_MoOMO540
+l37
+L23
+V9<8EZ06W_z^DKKW2g1jm_0
+R8
+32
+R9
+R10
+R11
+R12
+R13
+!s100 ze^[am11lOnEi`LEimU<B1
+!i10b 1
+Eand_gate
+Z14 w1522237801
+R1
+R2
+R3
+R4
+R5
+Z15 8C:/Users/Dell/Desktop/programs/CPU/CPU/Ass1New/And_Gate.vhd
+Z16 FC:/Users/Dell/Desktop/programs/CPU/CPU/Ass1New/And_Gate.vhd
+l0
+L5
+VUMQXDVJ[`;EKURP;oHdY20
+R8
+32
+Z17 !s108 1523394536.295000
+Z18 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/Dell/Desktop/programs/CPU/CPU/Ass1New/And_Gate.vhd|
+Z19 !s107 C:/Users/Dell/Desktop/programs/CPU/CPU/Ass1New/And_Gate.vhd|
+R12
+R13
+!s100 46`;mI4ORjebz3=GZ9^353
+!i10b 1
+Aand_gate
+R1
+R2
+R3
+R4
+DEx4 work 8 and_gate 0 22 UMQXDVJ[`;EKURP;oHdY20
+l16
+L14
+VB[EB>=iX>eVC3OPZz^eT>2
+R8
+32
+R17
+R18
+R19
+R12
+R13
+!s100 m7Yi9I6QSaARbNTThm3QL0
+!i10b 1
+Eand_gate_tset
+Z20 w1522244671
+R1
+R2
+R3
+R4
+R5
+Z21 8C:/Users/Dell/Desktop/programs/CPU/CPU/Ass1New/And_gate_Test.vhd
+Z22 FC:/Users/Dell/Desktop/programs/CPU/CPU/Ass1New/And_gate_Test.vhd
+l0
+L20
+VD2[ZTb4_EVKI>l89L=Lb?1
+R8
+32
+Z23 !s108 1523394535.154000
+Z24 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/Dell/Desktop/programs/CPU/CPU/Ass1New/And_gate_Test.vhd|
+Z25 !s107 C:/Users/Dell/Desktop/programs/CPU/CPU/Ass1New/And_gate_Test.vhd|
+R12
+R13
+!s100 Qe<1AaF8E58d:[FieX`iL2
+!i10b 1
+Artl
+R1
+R2
+R3
+R4
+DEx4 work 13 and_gate_tset 0 22 D2[ZTb4_EVKI>l89L=Lb?1
+l33
+L23
+V@cS`MP]k=f77kVhQkRKod0
+R8
+32
+R23
+R24
+R25
+R12
+R13
+!s100 Uj6khjKDFBH[<9zi_JJL<3
+!i10b 1
+Earitmetic_unit
+Z26 w1523396806
+R2
+R1
+Z27 DPx4 ieee 11 numeric_std 0 22 O3PF8EB`?j9=z7KT`fn941
+R3
+R4
+R5
+Z28 8C:/Users/Dell/Desktop/programs/CPU/CPU/Ass1New/Aritmetic_Unit.vhd
+Z29 FC:/Users/Dell/Desktop/programs/CPU/CPU/Ass1New/Aritmetic_Unit.vhd
+l0
+L7
+VEL6OhbeO:Lz<;CRYOeMWH3
+R8
+32
+Z30 !s108 1523396853.471000
+Z31 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/Dell/Desktop/programs/CPU/CPU/Ass1New/Aritmetic_Unit.vhd|
+Z32 !s107 C:/Users/Dell/Desktop/programs/CPU/CPU/Ass1New/Aritmetic_Unit.vhd|
+R12
+R13
+!s100 06DmARfXnBDA2i6XlJCRi0
+!i10b 1
+Aarch_aritmetic_unit
+R2
+R1
+R27
+R3
+R4
+Z33 DEx4 work 14 aritmetic_unit 0 22 EL6OhbeO:Lz<;CRYOeMWH3
+l119
+L26
+VAj_7FQ4j^AWVLMRTV`AXh1
+R8
+32
+R30
+R31
+R32
+R12
+R13
+!s100 n85Ol`4]9fhV=RZ4cVEJ>1
+!i10b 1
+Earitmetic_unit_tb
+Z34 w1523396948
+R1
+R2
+R3
+R4
+R5
+Z35 8C:/Users/Dell/Desktop/programs/CPU/CPU/Ass1New/Aritmetic_Unit_TB.vhd
+Z36 FC:/Users/Dell/Desktop/programs/CPU/CPU/Ass1New/Aritmetic_Unit_TB.vhd
+l0
+L20
+V7S`U[?^Y]1SSRQWCACFdF2
+!s100 _OBkA>lYURNToFTg`EQN]0
+R8
+32
+!i10b 1
+Z37 !s108 1523396952.992000
+Z38 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/Dell/Desktop/programs/CPU/CPU/Ass1New/Aritmetic_Unit_TB.vhd|
+Z39 !s107 C:/Users/Dell/Desktop/programs/CPU/CPU/Ass1New/Aritmetic_Unit_TB.vhd|
+R12
+R13
+Artl
+R27
+R33
+R1
+R2
+R3
+R4
+Z40 DEx4 work 17 aritmetic_unit_tb 0 22 7S`U[?^Y]1SSRQWCACFdF2
+l53
+L23
+VOX4kgP2zn7Rij8c[XC0@B3
+!s100 5Q6ScgR1[j2Q:YDI`j;ZW1
+R8
+32
+!i10b 1
+R37
+R38
+R39
+R12
+R13
+Ecounter
+Z41 w1522157931
+R2
+R1
+R3
+R4
+R5
+Z42 8C:/Users/Dell/Desktop/programs/CPU/CPU/Ass1New/Counter.vhd
+Z43 FC:/Users/Dell/Desktop/programs/CPU/CPU/Ass1New/Counter.vhd
+l0
+L19
+VCHO]i`MI7mWD[2DZ^`;563
+R8
+32
+Z44 !s108 1523394535.263000
+Z45 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/Dell/Desktop/programs/CPU/CPU/Ass1New/Counter.vhd|
+Z46 !s107 C:/Users/Dell/Desktop/programs/CPU/CPU/Ass1New/Counter.vhd|
+R12
+R13
+!s100 fPVm0BkTQjCl@zClOSGAZ1
+!i10b 1
+Artl
+R2
+R1
+R3
+R4
+DEx4 work 7 counter 0 22 CHO]i`MI7mWD[2DZ^`;563
+l26
+L24
+VfWkR;Ek43z:EPaMIoRb?S2
+R8
+32
+R44
+R45
+R46
+R12
+R13
+!s100 GQLEWG>ZR^5Y@fmncCG[g1
+!i10b 1
+Ecountertest
+Z47 w1395223244
+R1
+R2
+R3
+R4
+R5
+Z48 8C:/Users/Dell/Desktop/programs/CPU/CPU/Ass1New/Test_Counter.vhd
+Z49 FC:/Users/Dell/Desktop/programs/CPU/CPU/Ass1New/Test_Counter.vhd
+l0
+L20
+V4?lg4?RUo8miN1<6Cj5IQ1
+R8
+32
+Z50 !s108 1523394535.967000
+Z51 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/Dell/Desktop/programs/CPU/CPU/Ass1New/Test_Counter.vhd|
+Z52 !s107 C:/Users/Dell/Desktop/programs/CPU/CPU/Ass1New/Test_Counter.vhd|
+R12
+R13
+!s100 81]l]KSWBOACg=k2Zni6T0
+!i10b 1
+Artl
+R1
+R2
+R3
+R4
+DEx4 work 11 countertest 0 22 4?lg4?RUo8miN1<6Cj5IQ1
+l33
+L23
+VnRX6mFXYFHf0f07RnI<Sj2
+R8
+32
+R50
+R51
+R52
+R12
+R13
+!s100 omCZ4=F`_M:iB_NXK?j0N2
+!i10b 1
+Ed_flipflop
+Z53 w1523280949
+R1
+R2
+R3
+R4
+R5
+Z54 8C:/Users/Dell/Desktop/programs/CPU/CPU/Ass1New/D_FlipFlop.vhd
+Z55 FC:/Users/Dell/Desktop/programs/CPU/CPU/Ass1New/D_FlipFlop.vhd
+l0
+L6
+V_ND4=NJ7SVz9;HUFHD<0V0
+R8
+32
+Z56 !s108 1523394536.389000
+Z57 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/Dell/Desktop/programs/CPU/CPU/Ass1New/D_FlipFlop.vhd|
+Z58 !s107 C:/Users/Dell/Desktop/programs/CPU/CPU/Ass1New/D_FlipFlop.vhd|
+R12
+R13
+!s100 N72IYh3PLhe:3B23gI8gD3
+!i10b 1
+Aarch_d_flipflop
+R1
+R2
+R3
+R4
+DEx4 work 10 d_flipflop 0 22 _ND4=NJ7SVz9;HUFHD<0V0
+l25
+L21
+V:7oF_;3XCL?Z0SAJOb1W[0
+R8
+32
+R56
+R57
+R58
+R12
+R13
+!s100 HSLWXbR7<_Y8SACTHUKU11
+!i10b 1
+Ed_flipflop_tb
+Z59 w1522481593
+R1
+R2
+R3
+R4
+R5
+Z60 8C:/Users/Dell/Desktop/programs/CPU/CPU/Ass1New/D_FlipFlop_TB.vhd
+Z61 FC:/Users/Dell/Desktop/programs/CPU/CPU/Ass1New/D_FlipFlop_TB.vhd
+l0
+L20
+Vjb05NiE@TJ59aWoacJk]N0
+R8
+32
+Z62 !s108 1523394535.357000
+Z63 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/Dell/Desktop/programs/CPU/CPU/Ass1New/D_FlipFlop_TB.vhd|
+Z64 !s107 C:/Users/Dell/Desktop/programs/CPU/CPU/Ass1New/D_FlipFlop_TB.vhd|
+R12
+R13
+!s100 Gnlb]7Coc]4X3NLedBHOZ3
+!i10b 1
+Artl
+R1
+R2
+R3
+R4
+DEx4 work 13 d_flipflop_tb 0 22 jb05NiE@TJ59aWoacJk]N0
+l43
+L23
+V0[8FIQS:1nY40GHD^0geJ1
+R8
+32
+R62
+R63
+R64
+R12
+R13
+!s100 _m6V507RS];2i4TgT6D>`2
+!i10b 1
+Efull_adder_struct
+Z65 w1522411403
+R1
+R2
+R3
+R4
+R5
+Z66 8C:/Users/Dell/Desktop/programs/CPU/CPU/Ass1New/one_bit_adder_struct.vhd
+Z67 FC:/Users/Dell/Desktop/programs/CPU/CPU/Ass1New/one_bit_adder_struct.vhd
+l0
+L6
+Vi5;X8K?moK[7_@5:`[<[_3
+R8
+32
+Z68 !s108 1523394537.170000
+Z69 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/Dell/Desktop/programs/CPU/CPU/Ass1New/one_bit_adder_struct.vhd|
+Z70 !s107 C:/Users/Dell/Desktop/programs/CPU/CPU/Ass1New/one_bit_adder_struct.vhd|
+R12
+R13
+!s100 8`mDE@gD73ZGj1mClidaz1
+!i10b 1
+Aarch_full_adder
+R1
+R2
+R3
+R4
+DEx4 work 17 full_adder_struct 0 22 i5;X8K?moK[7_@5:`[<[_3
+l39
+L15
+VC?GNZdVQ0?fPSIGIKicYU1
+R8
+32
+R68
+R69
+R70
+R12
+R13
+!s100 g8dLQN[]KIVWQC=OBoJEO0
+!i10b 1
+Emac2_tmp
+Z71 w1522678362
+R1
+R2
+R3
+R4
+R5
+Z72 8C:/Users/Dell/Desktop/programs/CPU/CPU/Ass1New/MAC2_tmp.vhd
+Z73 FC:/Users/Dell/Desktop/programs/CPU/CPU/Ass1New/MAC2_tmp.vhd
+l0
+L6
+Vb5ccj=0Ncl5NLH;Jik7d13
+R8
+32
+Z74 !s108 1522825629.285000
+Z75 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/Dell/Desktop/programs/CPU/CPU/Ass1New/MAC2_tmp.vhd|
+Z76 !s107 C:/Users/Dell/Desktop/programs/CPU/CPU/Ass1New/MAC2_tmp.vhd|
+R12
+R13
+!s100 gWT0lW`Bob9n7OMTYGWQ60
+!i10b 1
+Aarch_mac2_tmp
+R1
+R2
+R3
+R4
+DEx4 work 8 mac2_tmp 0 22 b5ccj=0Ncl5NLH;Jik7d13
+l58
+L21
+VS@I8C9O`CnRH9ahWagLV43
+R8
+32
+R74
+R75
+R76
+R12
+R13
+!s100 VKYYOIDAJnZ^J[C51cXBM0
+!i10b 1
+Emac_struct
+Z77 w1523368697
+R1
+R2
+R3
+R4
+R5
+Z78 8C:/Users/Dell/Desktop/programs/CPU/CPU/Ass1New/MAC_stract.vhd
+Z79 FC:/Users/Dell/Desktop/programs/CPU/CPU/Ass1New/MAC_stract.vhd
+l0
+L6
+VOF6j[F8YdWmfOlVT9RnS=3
+R8
+32
+Z80 !s108 1523394536.482000
+Z81 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/Dell/Desktop/programs/CPU/CPU/Ass1New/MAC_stract.vhd|
+Z82 !s107 C:/Users/Dell/Desktop/programs/CPU/CPU/Ass1New/MAC_stract.vhd|
+R12
+R13
+!s100 Fl[V?BgoTR0A8PV:UZZb:1
+!i10b 1
+Aarch_mac_struct
+R1
+R2
+R3
+R4
+DEx4 work 10 mac_struct 0 22 OF6j[F8YdWmfOlVT9RnS=3
+l74
+L22
+VWzR3ej93N>>G4g=US;Qe_0
+R8
+32
+R80
+R81
+R82
+R12
+R13
+!s100 DHbGFWog7DVEQVPcCmZ[C0
+!i10b 1
+Emac_tb
+Z83 w1523013325
+R1
+R2
+R3
+R4
+R5
+Z84 8C:/Users/Dell/Desktop/programs/CPU/CPU/Ass1New/MAC_TB.vhd
+Z85 FC:/Users/Dell/Desktop/programs/CPU/CPU/Ass1New/MAC_TB.vhd
+l0
+L19
+V6ll<VS20>XZ[`n95gMh=]3
+R8
+32
+Z86 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/Dell/Desktop/programs/CPU/CPU/Ass1New/MAC_TB.vhd|
+R12
+R13
+Z87 !s107 C:/Users/Dell/Desktop/programs/CPU/CPU/Ass1New/MAC_TB.vhd|
+!s100 T;AUXgz>A<e]=MXaZ_=Y^3
+!i10b 1
+!s108 1523371460.150000
+Artl
+DEx4 work 10 mac_struct 0 22 P9:1g;zQ;dF^Wa]Dj:E_n3
+R1
+R2
+R3
+R4
+DEx4 work 6 mac_tb 0 22 6ll<VS20>XZ[`n95gMh=]3
+l46
+L22
+VdgWj4Coc[n7mXSjS=^OAH2
+R8
+32
+R86
+R12
+R13
+R87
+!s108 1523289442.401000
+!s100 Z^gH18JTZDCTSAS]TTVND3
+!i10b 1
+Emin_max_tb
+Z88 w1523088680
+R1
+R2
+R3
+R4
+R5
+Z89 8C:/Users/Dell/Desktop/programs/CPU/CPU/Ass1New/Min_Max_TB.vhd
+Z90 FC:/Users/Dell/Desktop/programs/CPU/CPU/Ass1New/Min_Max_TB.vhd
+l0
+L19
+VeWLVJL>DTCj1gjJOLY<L73
+R8
+32
+Z91 !s108 1523394537.686000
+Z92 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/Dell/Desktop/programs/CPU/CPU/Ass1New/Min_Max_TB.vhd|
+Z93 !s107 C:/Users/Dell/Desktop/programs/CPU/CPU/Ass1New/Min_Max_TB.vhd|
+R12
+R13
+!s100 eKL3CmDh7bH<da@Ahz1Om1
+!i10b 1
+Artl
+Z94 DEx4 work 21 minimazier_maximaizer 0 22 cVFFeRnD;5_KZ40[K`eaE2
+R1
+R2
+R3
+R4
+DEx4 work 10 min_max_tb 0 22 eWLVJL>DTCj1gjJOLY<L73
+l49
+L22
+VB1E]^?2:726IiFgi2?<jD3
+R8
+32
+R91
+R92
+R93
+R12
+R13
+!s100 `K[I_U[GJdNFc8_Dc]2En0
+!i10b 1
+Eminimazier_maximaizer
+Z95 w1523280438
+R1
+R2
+R3
+R4
+R5
+Z96 8C:/Users/Dell/Desktop/programs/CPU/CPU/Ass1New/Minimaizer_Maximaizer.vhd
+Z97 FC:/Users/Dell/Desktop/programs/CPU/CPU/Ass1New/Minimaizer_Maximaizer.vhd
+l0
+L6
+VcVFFeRnD;5_KZ40[K`eaE2
+R8
+32
+Z98 !s108 1523394537.592000
+Z99 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/Dell/Desktop/programs/CPU/CPU/Ass1New/Minimaizer_Maximaizer.vhd|
+Z100 !s107 C:/Users/Dell/Desktop/programs/CPU/CPU/Ass1New/Minimaizer_Maximaizer.vhd|
+R12
+R13
+!s100 ^l75eoYkjjLd7b?3[I<;z2
+!i10b 1
+Aarch_minimazier_maximaizer
+R1
+R2
+R3
+R4
+R94
+l49
+L25
+V7FcIhbYWJe?XdW:SISO`J3
+R8
+32
+R98
+R99
+R100
+R12
+R13
+!s100 :JkMA]zNXQWLhBggW:DXW1
+!i10b 1
+Emul_tb
+Z101 w1522515508
+R1
+R2
+R3
+R4
+R5
+Z102 8C:/Users/Dell/Desktop/programs/CPU/CPU/Ass1New/MUL_TB.vhd
+Z103 FC:/Users/Dell/Desktop/programs/CPU/CPU/Ass1New/MUL_TB.vhd
+l0
+L20
+V32hlN0PRfKz@lJ4BJWbWR0
+R8
+32
+Z104 !s108 1523394535.467000
+Z105 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/Dell/Desktop/programs/CPU/CPU/Ass1New/MUL_TB.vhd|
+Z106 !s107 C:/Users/Dell/Desktop/programs/CPU/CPU/Ass1New/MUL_TB.vhd|
+R12
+R13
+!s100 Y:haVz2P4DX^8QL6VTcbG1
+!i10b 1
+Artl
+R1
+R2
+R3
+R4
+DEx4 work 6 mul_tb 0 22 32hlN0PRfKz@lJ4BJWbWR0
+l40
+L23
+VmQ;U1DF@MQAjOnUdSLHMf1
+R8
+32
+R104
+R105
+R106
+R12
+R13
+!s100 h4DT1di;ElF4KkP]0QQRG3
+!i10b 1
+Emux4_1
+Z107 w1523366752
+R3
+R4
+R5
+Z108 8C:/Users/Dell/Desktop/programs/CPU/CPU/Ass1New/Mux4_1.vhd
+Z109 FC:/Users/Dell/Desktop/programs/CPU/CPU/Ass1New/Mux4_1.vhd
+l0
+L14
+VM4VP1F6^dMT^YL66UCb0G3
+R8
+32
+Z110 !s108 1523394539.400000
+Z111 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/Dell/Desktop/programs/CPU/CPU/Ass1New/Mux4_1.vhd|
+Z112 !s107 C:/Users/Dell/Desktop/programs/CPU/CPU/Ass1New/Mux4_1.vhd|
+R12
+R13
+!s100 GLV<d^Zd8CDjJUDfi3BoI1
+!i10b 1
+Adataflow
+R3
+R4
+DEx4 work 6 mux4_1 0 22 M4VP1F6^dMT^YL66UCb0G3
+l23
+L21
+V?mg^9;RNUfgZPcf:f=86P0
+R8
+32
+R110
+R111
+R112
+R12
+R13
+!s100 dzMPnUmB]>32^5nH3lVEn0
+!i10b 1
+Emux8_1
+Z113 w1523372490
+R3
+R4
+R5
+Z114 8C:/Users/Dell/Desktop/programs/CPU/CPU/Ass1New/Mux8_1.vhd
+Z115 FC:/Users/Dell/Desktop/programs/CPU/CPU/Ass1New/Mux8_1.vhd
+l0
+L15
+V[XhQS2F5O>n5Un362:KA30
+R8
+32
+Z116 !s108 1523394539.791000
+Z117 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/Dell/Desktop/programs/CPU/CPU/Ass1New/Mux8_1.vhd|
+Z118 !s107 C:/Users/Dell/Desktop/programs/CPU/CPU/Ass1New/Mux8_1.vhd|
+R12
+R13
+!s100 ZG0[LX:WHE<:_<j@Dfjol1
+!i10b 1
+Adataflow
+R3
+R4
+DEx4 work 6 mux8_1 0 22 [XhQS2F5O>n5Un362:KA30
+l25
+L23
+V;PT5GM39B6cVY`T;;LZ532
+R8
+32
+R116
+R117
+R118
+R12
+R13
+!s100 ]BY`A<DR:fG]h;SFmLdH10
+!i10b 1
+En_bit_adder_test
+Z119 w1522346014
+R1
+R2
+R3
+R4
+R5
+Z120 8C:/Users/Dell/Desktop/programs/CPU/CPU/Ass1New/n_bit_adder_test.vhd
+Z121 FC:/Users/Dell/Desktop/programs/CPU/CPU/Ass1New/n_bit_adder_test.vhd
+l0
+L20
+VDcEVH[I]OKKT1<CZkWbfd2
+R8
+32
+Z122 !s108 1523394535.560000
+Z123 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/Dell/Desktop/programs/CPU/CPU/Ass1New/n_bit_adder_test.vhd|
+Z124 !s107 C:/Users/Dell/Desktop/programs/CPU/CPU/Ass1New/n_bit_adder_test.vhd|
+R12
+R13
+!s100 >bOK>Hki@CfHXLd78UPEz3
+!i10b 1
+Artl
+R1
+R2
+R3
+R4
+DEx4 work 16 n_bit_adder_test 0 22 DcEVH[I]OKKT1<CZkWbfd2
+l45
+L23
+VoBcML:G3iILOCfPWFic_P0
+R8
+32
+R122
+R123
+R124
+R12
+R13
+!s100 jBllcgjgnIb:dm]]kBeKZ0
+!i10b 1
+En_bit_full_adder
+Z125 w1522347056
+R1
+R2
+R3
+R4
+R5
+Z126 8C:/Users/Dell/Desktop/programs/CPU/CPU/Ass1New/n_Bit_Adder.vhd
+Z127 FC:/Users/Dell/Desktop/programs/CPU/CPU/Ass1New/n_Bit_Adder.vhd
+l0
+L6
+VeOKJ1]9gAb7oSAUKbYJ;=1
+R8
+32
+Z128 !s108 1523394536.873000
+Z129 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/Dell/Desktop/programs/CPU/CPU/Ass1New/n_Bit_Adder.vhd|
+Z130 !s107 C:/Users/Dell/Desktop/programs/CPU/CPU/Ass1New/n_Bit_Adder.vhd|
+R12
+R13
+!s100 f]<gWW@KcZJB;3eS_Z][T0
+!i10b 1
+Aarch_n_bit_full_adder
+R1
+R2
+R3
+R4
+DEx4 work 16 n_bit_full_adder 0 22 eOKJ1]9gAb7oSAUKbYJ;=1
+l42
+L22
+VP>@`AFQmQPPeo`OY@n8h71
+R8
+32
+R128
+R129
+R130
+R12
+R13
+!s100 ZOfZ2@Zg?7U6E=5N<V<^@3
+!i10b 1
+En_bit_full_adder_behavioral
+Z131 w1523280512
+R1
+R2
+R3
+R4
+R5
+Z132 8C:/Users/Dell/Desktop/programs/CPU/CPU/Ass1New/n_bit_Adder_behavioral.vhd
+Z133 FC:/Users/Dell/Desktop/programs/CPU/CPU/Ass1New/n_bit_Adder_behavioral.vhd
+l0
+L8
+VH4X0hYRfa1EKZO]?V[D1o2
+R8
+32
+Z134 !s108 1523280514.844000
+Z135 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/Dell/Desktop/programs/CPU/CPU/Ass1New/n_bit_Adder_behavioral.vhd|
+Z136 !s107 C:/Users/Dell/Desktop/programs/CPU/CPU/Ass1New/n_bit_Adder_behavioral.vhd|
+R12
+R13
+!s100 NE7YA_l]FKbT56^_Qa2g23
+!i10b 1
+Abehavioral_arch
+R1
+R2
+R3
+R4
+DEx4 work 27 n_bit_full_adder_behavioral 0 22 H4X0hYRfa1EKZO]?V[D1o2
+l24
+L22
+VnX`h754dlU3d]9]2oKj:j2
+R8
+32
+R134
+R135
+R136
+R12
+R13
+!s100 f5R0PaKCf?0g]8I4Z40KI1
+!i10b 1
+En_bit_multiplication_behavioral
+Z137 w1522951206
+R1
+R2
+R3
+R4
+R5
+Z138 8C:/Users/Dell/Desktop/programs/CPU/CPU/Ass1New/n_bit_mul_behavioral.vhd
+Z139 FC:/Users/Dell/Desktop/programs/CPU/CPU/Ass1New/n_bit_mul_behavioral.vhd
+l0
+L7
+VSahV`o_7_iWRC>8_<VG[12
+R8
+32
+Z140 !s108 1523394537.076000
+Z141 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/Dell/Desktop/programs/CPU/CPU/Ass1New/n_bit_mul_behavioral.vhd|
+Z142 !s107 C:/Users/Dell/Desktop/programs/CPU/CPU/Ass1New/n_bit_mul_behavioral.vhd|
+R12
+R13
+!s100 QX<JH05[G9]84SoA7INo`0
+!i10b 1
+Abehavioral_arch
+R1
+R2
+R3
+R4
+DEx4 work 31 n_bit_multiplication_behavioral 0 22 SahV`o_7_iWRC>8_<VG[12
+l23
+L21
+VX3^UVlf]i2IoFSlF<5L221
+R8
+32
+R140
+R141
+R142
+R12
+R13
+!s100 jnFcWDg`4;Z^XQMHM13eC2
+!i10b 1
+Enx2_bit_adder_test
+Z143 w1523090345
+R1
+R2
+R3
+R4
+R5
+Z144 8C:/Users/Dell/Desktop/programs/CPU/CPU/Ass1New/nX2_bit_FA_TB.vhd
+Z145 FC:/Users/Dell/Desktop/programs/CPU/CPU/Ass1New/nX2_bit_FA_TB.vhd
+l0
+L20
+VFXeKVi>m7nHN69RH48WlL0
+R8
+32
+Z146 !s108 1523394535.654000
+Z147 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/Dell/Desktop/programs/CPU/CPU/Ass1New/nX2_bit_FA_TB.vhd|
+Z148 !s107 C:/Users/Dell/Desktop/programs/CPU/CPU/Ass1New/nX2_bit_FA_TB.vhd|
+R12
+R13
+!s100 Th3`44?TTD>h3N_7T4O`k1
+!i10b 1
+Artl
+R1
+R2
+R3
+R4
+DEx4 work 18 nx2_bit_adder_test 0 22 FXeKVi>m7nHN69RH48WlL0
+l45
+L23
+V_WKmFbJN>n=no:o_;gJm91
+R8
+32
+R146
+R147
+R148
+R12
+R13
+!s100 KmY?QC^I^LYaKj0QZzY7W0
+!i10b 1
+Enx2_bit_full_adder
+Z149 w1522662671
+R1
+R2
+R3
+R4
+R5
+Z150 8C:/Users/Dell/Desktop/programs/CPU/CPU/Ass1New/2N_bit_FA.vhd
+Z151 FC:/Users/Dell/Desktop/programs/CPU/CPU/Ass1New/2N_bit_FA.vhd
+l0
+L6
+VgM]hYB:U;NY2>AL3Ta;]P0
+R8
+32
+Z152 !s108 1523394536.170000
+Z153 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/Dell/Desktop/programs/CPU/CPU/Ass1New/2N_bit_FA.vhd|
+Z154 !s107 C:/Users/Dell/Desktop/programs/CPU/CPU/Ass1New/2N_bit_FA.vhd|
+R12
+R13
+!s100 [m[J54Elk3g5h?IKSd7Jk0
+!i10b 1
+Aarch_2n_bit_full_adder
+R1
+R2
+R3
+R4
+DEx4 work 18 nx2_bit_full_adder 0 22 gM]hYB:U;NY2>AL3Ta;]P0
+l42
+L22
+VgGNQ?H43dMX^c25C>zBKK3
+R8
+32
+R152
+R153
+R154
+R12
+R13
+!s100 e5OMROjNCj=N:3zm1e8il1
+!i10b 1
+Enx2_bit_full_adder_behavioral
+Z155 w1523280549
+R1
+R2
+R3
+R4
+R5
+R132
+R133
+l0
+L8
+VZWCQe43>9_M@XbF:QCl;J0
+R8
+32
+Z156 !s108 1523394536.982000
+R135
+R136
+R12
+R13
+!s100 UM<64gI;SWYnP:;3T9fi]0
+!i10b 1
+Abehavioral_arch
+R1
+R2
+R3
+R4
+DEx4 work 29 nx2_bit_full_adder_behavioral 0 22 ZWCQe43>9_M@XbF:QCl;J0
+l24
+L22
+VikFo;9RcUQ7a2<LLb`mgV0
+R8
+32
+R156
+R135
+R136
+R12
+R13
+!s100 DGW4F@BVBe9CKHJ9WSSRf1
+!i10b 1
+Eone_bit_adder_test
+Z157 w1522252132
+R1
+R2
+R3
+R4
+R5
+Z158 8C:/Users/Dell/Desktop/programs/CPU/CPU/Ass1New/one_bit_adder_test_struct.vhd
+Z159 FC:/Users/Dell/Desktop/programs/CPU/CPU/Ass1New/one_bit_adder_test_struct.vhd
+l0
+L20
+V3[P]WkNoibdXfAS_Rjd^R0
+R8
+32
+Z160 !s108 1523394535.763000
+Z161 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/Dell/Desktop/programs/CPU/CPU/Ass1New/one_bit_adder_test_struct.vhd|
+Z162 !s107 C:/Users/Dell/Desktop/programs/CPU/CPU/Ass1New/one_bit_adder_test_struct.vhd|
+R12
+R13
+!s100 PVAh1]VG`nfilLSBAKeNE2
+!i10b 1
+Artl
+R1
+R2
+R3
+R4
+DEx4 work 18 one_bit_adder_test 0 22 3[P]WkNoibdXfAS_Rjd^R0
+l37
+L23
+VKbOFISPj^f;AVXTA?6@zQ0
+R8
+32
+R160
+R161
+R162
+R12
+R13
+!s100 EdeBzo2Xd5fYd@o]20X<E0
+!i10b 1
+Eor_gate
+Z163 w1522244949
+R1
+R2
+R3
+R4
+R5
+Z164 8C:/Users/Dell/Desktop/programs/CPU/CPU/Ass1New/Or_Gate.vhd
+Z165 FC:/Users/Dell/Desktop/programs/CPU/CPU/Ass1New/Or_Gate.vhd
+l0
+L5
+V`lZU[T:h?@8_cOgXXfJk21
+R8
+32
+Z166 !s108 1523394536.576000
+Z167 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/Dell/Desktop/programs/CPU/CPU/Ass1New/Or_Gate.vhd|
+Z168 !s107 C:/Users/Dell/Desktop/programs/CPU/CPU/Ass1New/Or_Gate.vhd|
+R12
+R13
+!s100 ezOCkTWE:c>nbc;>JNA0d2
+!i10b 1
+Aor_gate
+R1
+R2
+R3
+R4
+DEx4 work 7 or_gate 0 22 `lZU[T:h?@8_cOgXXfJk21
+l16
+L14
+V6AR8;Gd6MZOk<44=D:UUj3
+R8
+32
+R166
+R167
+R168
+R12
+R13
+!s100 h;9DJ:aQY68VI;VPIWNdF0
+!i10b 1
+Eor_gate_tset
+Z169 w1522244444
+R1
+R2
+R3
+R4
+R5
+Z170 8C:/Users/Dell/Desktop/programs/CPU/CPU/Ass1New/Or_gate_Test.vhd
+Z171 FC:/Users/Dell/Desktop/programs/CPU/CPU/Ass1New/Or_gate_Test.vhd
+l0
+L20
+V8OHWD:G3?eB[YX@Ben[l83
+R8
+32
+Z172 !s108 1523394535.857000
+Z173 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/Dell/Desktop/programs/CPU/CPU/Ass1New/Or_gate_Test.vhd|
+Z174 !s107 C:/Users/Dell/Desktop/programs/CPU/CPU/Ass1New/Or_gate_Test.vhd|
+R12
+R13
+!s100 [bEGRAB0bhDg3cz]AF]Pz0
+!i10b 1
+Artl
+R1
+R2
+R3
+R4
+DEx4 work 12 or_gate_tset 0 22 8OHWD:G3?eB[YX@Ben[l83
+l33
+L23
+V]g7k`6BHk8<_j7ZUOeC0J2
+R8
+32
+R172
+R173
+R174
+R12
+R13
+!s100 15gn`Wc<e<URDKCech`CE1
+!i10b 1
+Eoutput_selector
+Z175 w1523372519
+R3
+R4
+R5
+Z176 8C:/Users/Dell/Desktop/programs/CPU/CPU/Ass1New/Output_Selector.vhd
+Z177 FC:/Users/Dell/Desktop/programs/CPU/CPU/Ass1New/Output_Selector.vhd
+l0
+L16
+V_84fg@zodN]_CMc_OkN;o0
+R8
+32
+Z178 !s108 1523394539.494000
+Z179 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/Dell/Desktop/programs/CPU/CPU/Ass1New/Output_Selector.vhd|
+Z180 !s107 C:/Users/Dell/Desktop/programs/CPU/CPU/Ass1New/Output_Selector.vhd|
+R12
+R13
+!s100 @1ZN:7ikHVnnDz8cGWM>n2
+!i10b 1
+Adataflow
+R3
+R4
+DEx4 work 15 output_selector 0 22 _84fg@zodN]_CMc_OkN;o0
+l37
+L27
+V>ifM8CS434loJ;[iUm2?X1
+R8
+32
+R178
+R179
+R180
+R12
+R13
+!s100 02BcVI:YoY7d_<7IB]dTV0
+!i10b 1
+Eselector_fa
+Z181 w1523396878
+R2
+R1
+R27
+R3
+R4
+R5
+Z182 8C:/Users/Dell/Desktop/programs/CPU/CPU/Ass1New/Selector_FA.vhd
+Z183 FC:/Users/Dell/Desktop/programs/CPU/CPU/Ass1New/Selector_FA.vhd
+l0
+L8
+V57nL4?e:4K]W:Y_YG00:V0
+R8
+32
+Z184 !s108 1523396924.599000
+Z185 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/Dell/Desktop/programs/CPU/CPU/Ass1New/Selector_FA.vhd|
+Z186 !s107 C:/Users/Dell/Desktop/programs/CPU/CPU/Ass1New/Selector_FA.vhd|
+R12
+R13
+!s100 ^<G`^GW9:DFL@bIJ3EQId0
+!i10b 1
+Abehavioral_arch
+R2
+R1
+R27
+R3
+R4
+Z187 DEx4 work 11 selector_fa 0 22 57nL4?e:4K]W:Y_YG00:V0
+l30
+L26
+V_WeM0YC4aSTzSN6i?KI`O0
+R8
+32
+R184
+R185
+R186
+R12
+R13
+!s100 GJdM;fAEoTE_lK>9f6>6R0
+!i10b 1
+Eselector_fa_tb
+Z188 w1523375650
+R1
+R2
+R3
+R4
+R5
+Z189 8C:/Users/Dell/Desktop/programs/CPU/CPU/Ass1New/Selector_FA_TB.vhd
+Z190 FC:/Users/Dell/Desktop/programs/CPU/CPU/Ass1New/Selector_FA_TB.vhd
+l0
+L19
+Vgon9fM;B:NzR3ff`MPhn=0
+R8
+32
+Z191 !s108 1523394539.885000
+Z192 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/Dell/Desktop/programs/CPU/CPU/Ass1New/Selector_FA_TB.vhd|
+Z193 !s107 C:/Users/Dell/Desktop/programs/CPU/CPU/Ass1New/Selector_FA_TB.vhd|
+R12
+R13
+!s100 [Tlz2W^zN:16?C_H5i;BT3
+!i10b 1
+Artl
+R27
+R187
+R1
+R2
+R3
+R4
+DEx4 work 14 selector_fa_tb 0 22 gon9fM;B:NzR3ff`MPhn=0
+l51
+L22
+V^3ejLcz:aTUnjI64>`XP:3
+R8
+32
+R191
+R192
+R193
+R12
+R13
+!s100 m]GO2AdQ<Z4e^QLW_O;KM0
+!i10b 1
+Eselector_mul
+Z194 w1523394429
+R1
+R2
+R3
+R4
+R5
+Z195 8C:/Users/Dell/Desktop/programs/CPU/CPU/Ass1New/Selector_MUL.vhd
+Z196 FC:/Users/Dell/Desktop/programs/CPU/CPU/Ass1New/Selector_MUL.vhd
+l0
+L8
+VFRWAP>b>?:]E2NKHX6oiK2
+R8
+32
+Z197 !s108 1523394539.291000
+Z198 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/Dell/Desktop/programs/CPU/CPU/Ass1New/Selector_MUL.vhd|
+Z199 !s107 C:/Users/Dell/Desktop/programs/CPU/CPU/Ass1New/Selector_MUL.vhd|
+R12
+R13
+!s100 O1<H6M;BaiDH8odh?3:;f3
+!i10b 1
+Abehavioral_arch
+R1
+R2
+R3
+R4
+DEx4 work 12 selector_mul 0 22 FRWAP>b>?:]E2NKHX6oiK2
+l26
+L24
+V6gl4<?m3Y0bY7k3d720b23
+R8
+32
+R197
+R198
+R199
+R12
+R13
+!s100 J9KHke`D7GWP9Ud6>c4AV1
+!i10b 1
+Eshift_reg
+Z200 w1522750128
+R27
+R3
+R4
+R5
+Z201 8C:/Users/Dell/Desktop/programs/CPU/CPU/Ass1New/Shift_reg.vhd
+Z202 FC:/Users/Dell/Desktop/programs/CPU/CPU/Ass1New/Shift_reg.vhd
+l0
+L5
+VHQ6M;0Bm]KS9<lDj`MUQc3
+R8
+32
+Z203 !s108 1523394536.670000
+Z204 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/Dell/Desktop/programs/CPU/CPU/Ass1New/Shift_reg.vhd|
+Z205 !s107 C:/Users/Dell/Desktop/programs/CPU/CPU/Ass1New/Shift_reg.vhd|
+R12
+R13
+!s100 PAE2II7LNh[ehS2@Om;7R3
+!i10b 1
+Aarch_shift_reg
+R27
+R3
+R4
+DEx4 work 9 shift_reg 0 22 HQ6M;0Bm]KS9<lDj`MUQc3
+l25
+L20
+VH]h[jIK7[5cjDUSP1oj2Q3
+R8
+32
+R203
+R204
+R205
+R12
+R13
+!s100 ;d<Ei8V5WV@Y_C:Y`VN:<2
+!i10b 1
+Adataflow
+R27
+R3
+R4
+DEx4 work 9 shift_reg 0 22 5kcAWjQTRPO:hKCTl`Bke0
+l19
+L18
+Vd[jaHKo3TD[<HgHdO2Ko40
+R8
+32
+R204
+R205
+R12
+R13
+w1522685435
+!s108 1522685517.795000
+!s100 4I^5B>J>@GOJgSi[565kb0
+!i10b 1
+Eshift_reg_dor
+Z206 w1523372601
+R27
+R3
+R4
+R5
+Z207 8C:/Users/Dell/Desktop/programs/CPU/CPU/Ass1New/Shift_reg_MUXER.vhd
+Z208 FC:/Users/Dell/Desktop/programs/CPU/CPU/Ass1New/Shift_reg_MUXER.vhd
+l0
+L24
+V[bU4fMRI]zbh^Z:Td[_gm0
+R8
+32
+Z209 !s108 1523372673.043000
+Z210 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/Dell/Desktop/programs/CPU/CPU/Ass1New/Shift_reg_MUXER.vhd|
+Z211 !s107 C:/Users/Dell/Desktop/programs/CPU/CPU/Ass1New/Shift_reg_MUXER.vhd|
+R12
+R13
+!s100 b^:TY@mMQT0W>P_XMU4f^3
+!i10b 1
+Adataflow
+R27
+R3
+R4
+DEx4 work 13 shift_reg_dor 0 22 [bU4fMRI]zbh^Z:Td[_gm0
+l59
+L40
+V@AjABBg=DEe;?AV=YSkA>1
+R8
+32
+R209
+R210
+R211
+R12
+R13
+!s100 O>17g4mg_l7QeWUenBg740
+!i10b 1
+Eshift_reg_muxer
+Z212 w1523372806
+R27
+R3
+R4
+R5
+R207
+R208
+l0
+L24
+V?1ke:U0ia<gac:hAk:jjB1
+R8
+32
+Z213 !s108 1523394539.588000
+R210
+R211
+R12
+R13
+!s100 N32lhmh@37m4:dV1::aMi0
+!i10b 1
+Adataflow
+R27
+R3
+R4
+Z214 DEx4 work 15 shift_reg_muxer 0 22 ?1ke:U0ia<gac:hAk:jjB1
+l59
+L40
+Vh2ceK0fdVdNQ3]JcMV6a12
+R8
+32
+R213
+R210
+R211
+R12
+R13
+!s100 ^0jXOHSfhGg9Wn7PP2iSI2
+!i10b 1
+Eshift_reg_working
+Z215 w1522827515
+R27
+R3
+R4
+R5
+Z216 8C:/Users/Dell/Desktop/programs/CPU/CPU/Ass1New/Shift_Reg_working.vhd
+Z217 FC:/Users/Dell/Desktop/programs/CPU/CPU/Ass1New/Shift_Reg_working.vhd
+l0
+L5
+VQkcFVgoTMDz<]:XZBiSV<2
+R8
+32
+Z218 !s108 1523394537.389000
+Z219 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/Dell/Desktop/programs/CPU/CPU/Ass1New/Shift_Reg_working.vhd|
+Z220 !s107 C:/Users/Dell/Desktop/programs/CPU/CPU/Ass1New/Shift_Reg_working.vhd|
+R12
+R13
+!s100 XMBc:gATXE;f[dh59oa:d2
+!i10b 1
+Aarch_shift_reg
+R27
+R3
+R4
+Z221 DEx4 work 17 shift_reg_working 0 22 QkcFVgoTMDz<]:XZBiSV<2
+l26
+L24
+VG<DZR06[AM4d=]3SSN?W22
+R8
+32
+R218
+R219
+R220
+R12
+R13
+!s100 K=7baI9H92>hG<_i[5hn^2
+!i10b 1
+Eshift_reg_working_tb
+Z222 w1522826706
+R1
+R2
+R3
+R4
+R5
+Z223 8C:/Users/Dell/Desktop/programs/CPU/CPU/Ass1New/Shift_Reg_Working_TB.vhd
+Z224 FC:/Users/Dell/Desktop/programs/CPU/CPU/Ass1New/Shift_Reg_Working_TB.vhd
+l0
+L19
+VS]Yeh0O8>;95M4Ze5LjmQ0
+R8
+32
+Z225 !s108 1523394537.498000
+Z226 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/Dell/Desktop/programs/CPU/CPU/Ass1New/Shift_Reg_Working_TB.vhd|
+Z227 !s107 C:/Users/Dell/Desktop/programs/CPU/CPU/Ass1New/Shift_Reg_Working_TB.vhd|
+R12
+R13
+!s100 EI>X8h1ZHO?ZjS2Ya^RU;2
+!i10b 1
+Artl
+R27
+R221
+R1
+R2
+R3
+R4
+DEx4 work 20 shift_reg_working_tb 0 22 S]Yeh0O8>;95M4Ze5LjmQ0
+l49
+L22
+VjSz<22PmlBfP]Z=67<7C21
+R8
+32
+R225
+R226
+R227
+R12
+R13
+!s100 SbCT864G]_2RX1lX8]i5:0
+!i10b 1
+Eshift_tb
+Z228 w1522747930
+R1
+R2
+R3
+R4
+R5
+Z229 8C:/Users/Dell/Desktop/programs/CPU/CPU/Ass1New/Shift_TB.vhd
+Z230 FC:/Users/Dell/Desktop/programs/CPU/CPU/Ass1New/Shift_TB.vhd
+l0
+L19
+VYThQi6dUKk;5eKZz<Qf3@3
+R8
+32
+Z231 !s108 1523394537.295000
+Z232 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/Dell/Desktop/programs/CPU/CPU/Ass1New/Shift_TB.vhd|
+Z233 !s107 C:/Users/Dell/Desktop/programs/CPU/CPU/Ass1New/Shift_TB.vhd|
+R12
+R13
+!s100 :Kek5V24bijnQNFXXFlkH3
+!i10b 1
+Artl
+R1
+R2
+R3
+R4
+DEx4 work 8 shift_tb 0 22 YThQi6dUKk;5eKZz<Qf3@3
+l42
+L22
+Ve:?^oC`SgnD2Vn[Unl4340
+R8
+32
+R231
+R232
+R233
+R12
+R13
+!s100 [7gjB_QGA^zmE=1^[<9<D3
+!i10b 1
+Astruct
+R1
+R2
+R3
+R4
+DEx4 work 8 shift_tb 0 22 09T9n[C<J4F_lbk`H_aI82
+l27
+L11
+VC>;<>W41SO`kO0YQ[jR3H0
+R8
+32
+R232
+R233
+R12
+R13
+w1522685548
+!s108 1522685576.943000
+!s100 ?C8EDNm4>[h[RzALJDRB`3
+!i10b 1
+Eshift_test
+Z234 w1523372881
+R27
+R3
+R4
+R5
+Z235 8C:/Users/Dell/Desktop/programs/CPU/CPU/Ass1New/Shift_Reg_Muxer_TB.vhd
+Z236 FC:/Users/Dell/Desktop/programs/CPU/CPU/Ass1New/Shift_Reg_Muxer_TB.vhd
+l0
+L14
+V4TJ7S7S:Il>9MTXeEgL9i1
+R8
+32
+Z237 !s108 1523394539.697000
+Z238 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/Dell/Desktop/programs/CPU/CPU/Ass1New/Shift_Reg_Muxer_TB.vhd|
+Z239 !s107 C:/Users/Dell/Desktop/programs/CPU/CPU/Ass1New/Shift_Reg_Muxer_TB.vhd|
+R12
+R13
+!s100 oTa5D0;lVFzGka:jN;z?`1
+!i10b 1
+Artl
+R214
+R27
+R3
+R4
+DEx4 work 10 shift_test 0 22 4TJ7S7S:Il>9MTXeEgL9i1
+l36
+L17
+V1098`0V2SanI=_^Gha`c<3
+R8
+32
+R237
+R238
+R239
+R12
+R13
+!s100 `VOhG[eP35ae3Z<^1E@kO0
+!i10b 1
+Eshiftunit
+Z240 w1522685333
+R27
+R3
+R4
+R5
+R201
+R202
+l0
+L5
+V4[_6MKz<U?=GekALH7SH71
+R8
+32
+Z241 !s108 1522685340.916000
+R204
+R205
+R12
+R13
+!s100 B<XaBZh;cQ8jUlH4fZNGY0
+!i10b 1
+Adataflow
+R27
+R3
+R4
+DEx4 work 9 shiftunit 0 22 4[_6MKz<U?=GekALH7SH71
+l19
+L18
+V]LULY68cXHA^A=>j9zP@S2
+R8
+32
+R241
+R204
+R205
+R12
+R13
+!s100 05<DZT8SP5h;PfWT:g6Mb0
+!i10b 1
+Eshiftunittestbench
+Z242 w1522685329
+R1
+R2
+R3
+R4
+R5
+R229
+R230
+l0
+L7
+V;E1H0AEzbIeD>Q6868QmS2
+R8
+32
+Z243 !s108 1522685337.541000
+R232
+R233
+R12
+R13
+!s100 T[0A[]KHd4fnDSRR]bJ8n0
+!i10b 1
+Astruct
+R1
+R2
+R3
+R4
+DEx4 work 18 shiftunittestbench 0 22 ;E1H0AEzbIeD>Q6868QmS2
+l27
+L11
+VUY9MlGGz2AD@HMeiHQg1S1
+R8
+32
+R243
+R232
+R233
+R12
+R13
+!s100 RiEGcWeRzP[dFF`THP`J?1
+!i10b 1
+Exor_gate
+Z244 w1522237991
+R1
+R2
+R3
+R4
+R5
+Z245 8C:/Users/Dell/Desktop/programs/CPU/CPU/Ass1New/Xor_Gate.vhd
+Z246 FC:/Users/Dell/Desktop/programs/CPU/CPU/Ass1New/Xor_Gate.vhd
+l0
+L5
+V0`;]@dKDQ;lVJfoR=6b>;0
+R8
+32
+Z247 !s108 1523394536.779000
+Z248 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/Dell/Desktop/programs/CPU/CPU/Ass1New/Xor_Gate.vhd|
+Z249 !s107 C:/Users/Dell/Desktop/programs/CPU/CPU/Ass1New/Xor_Gate.vhd|
+R12
+R13
+!s100 mG2z_clh8?8QZDcoI4P`<0
+!i10b 1
+Axor_gate
+R1
+R2
+R3
+R4
+DEx4 work 8 xor_gate 0 22 0`;]@dKDQ;lVJfoR=6b>;0
+l16
+L14
+VoHnmkgZ4fIf;_A34B5@DY3
+R8
+32
+R247
+R248
+R249
+R12
+R13
+!s100 HJGJ0l7Mnic0:2l_V[C^H0
+!i10b 1
+Exor_gate_tset
+Z250 w1522244821
+R1
+R2
+R3
+R4
+R5
+Z251 8C:/Users/Dell/Desktop/programs/CPU/CPU/Ass1New/Xor_gate_Test.vhd
+Z252 FC:/Users/Dell/Desktop/programs/CPU/CPU/Ass1New/Xor_gate_Test.vhd
+l0
+L20
+V7lGzSTaT_2R]SgQTfblET1
+R8
+32
+Z253 !s108 1523394536.060000
+Z254 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/Dell/Desktop/programs/CPU/CPU/Ass1New/Xor_gate_Test.vhd|
+Z255 !s107 C:/Users/Dell/Desktop/programs/CPU/CPU/Ass1New/Xor_gate_Test.vhd|
+R12
+R13
+!s100 k>W:m_0lVdF56lW]blH451
+!i10b 1
+Artl
+R1
+R2
+R3
+R4
+DEx4 work 13 xor_gate_tset 0 22 7lGzSTaT_2R]SgQTfblET1
+l33
+L23
+Vi<<?AP71G>IR9L0@zYTUE2
+R8
+32
+R253
+R254
+R255
+R12
+R13
+!s100 9cnXSaZSQaeoa7K@?9B890
+!i10b 1
